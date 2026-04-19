@@ -698,1306 +698,1306 @@ CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddres
 11714,MRS.,ALEXANDRIA,LONG,10/18/1962,M,F,alexandria9@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
 11715,MRS.,CHLOE,ROBINSON,9/21/1962,M,F,chloe28@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
 11716,MR.,EVAN,KELLY,10/21/1961,S,M,evan2@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11717,MR.,MARCUS,JONES,09-02-1961,M,M,marcus3@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11718,MRS.,SARAH,JONES,11/14/1961,M,F,sarah5@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11719,MR.,BLAKE,GREEN,05-08-1960,M,M,blake32@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11720,MRS.,MORGAN,MORRIS,3/26/1960,M,F,morgan48@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11721,MRS.,JENNIFER,ALEXANDER,1/22/1960,M,F,jennifer92@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11722,MR.,JULIAN,HUGHES,07-02-1960,M,M,julian13@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11723,MR.,LUKE,COLEMAN,8/21/1967,S,M,luke24@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11724,MR.,JASON,CARTER,4/15/1967,S,M,jason39@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11725,MR.,JOSE,LI,9/17/1967,S,M,jose20@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11726,MR.,MICAH,LIANG,7/17/1967,S,M,micah4@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11727,MR.,BENJAMIN,TAYLOR,07-09-1967,S,M,benjamin43@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-11728,MR.,LOGAN,WHITE,01-07-1960,M,M,logan64@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11729,MR.,CALEB,CAMPBELL,05-06-1960,M,M,caleb36@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11730,MRS.,EMMA,TORRES,10-02-1960,M,F,emma40@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11731,MRS.,TANYA,GILL,8/19/1960,M,F,tanya10@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11732,MR.,ERICK,SANCHEZ,02-08-1959,M,M,erick20@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11733,MRS.,KRISTI,SCHMIDT,7/27/1959,M,F,kristi27@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11734,MR.,OMAR,CHEN,8/25/1959,M,M,omar2@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11735,MRS.,SYDNEY,GRAY,1/22/1959,M,F,sydney16@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11736,MR.,SEBASTIAN,SANCHEZ,9/25/1959,M,M,sebastian16@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11737,MRS.,MEGAN,MARTIN,02-08-1959,M,F,megan17@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11738,MR.,ELIJAH,ALEXANDER,10-09-1959,M,M,elijah20@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11739,MR.,AARON,KING,5/14/1959,M,M,aaron51@adventure-works.com,"$70,000 ",2,Graduate Degree,Professional,Y
-11740,MRS.,JAN,HALL,4/24/1959,M,F,jan18@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,N
-11741,MRS.,TAMARA,CHANDER,7/26/1959,M,F,tamara27@adventure-works.com,"$80,000 ",4,Graduate Degree,Professional,Y
-11742,MR.,EDWARD,LEWIS,11-02-1958,S,M,edward43@adventure-works.com,"$60,000 ",3,Bachelors,Professional,N
-11743,MR.,CHASE,KELLY,3/16/1958,M,M,chase3@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11744,MRS.,STEPHANIE,CAMPBELL,09-07-1958,M,F,stephanie54@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11745,MRS.,ALLISON,GONZALEZ,10/13/1958,M,F,allison31@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11746,MR.,SETH,BROOKS,12-01-1958,S,M,seth74@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11747,MRS.,DESTINY,DAVIS,02-09-1958,M,F,destiny5@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11748,MR.,BLAKE,HILL,7/18/1958,M,M,blake30@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11749,MR.,EDUARDO,JACKSON,9/13/1969,M,M,eduardo10@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,N
-11750,MRS.,LATOYA,SHE,3/24/1968,M,F,latoya0@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-11751,MRS.,VICTORIA,GONZALES,7/17/1970,M,F,victoria63@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-11752,MRS.,LAUREN,BRYANT,05-07-1970,M,F,lauren64@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-11753,MRS.,FELICIA,ORTEGA,3/18/1970,M,F,felicia20@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-11754,MRS.,JANET,ORTEGA,07-08-1970,M,F,janet27@adventure-works.com,"$90,000 ",2,Bachelors,Professional,Y
-11755,MR.,WILLIE,PAL,5/15/1968,M,M,willie31@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-11756,MRS.,LINDA,ORTEGA,9/13/1968,S,F,linda37@adventure-works.com,"$60,000 ",2,Bachelors,Professional,N
-11757,MR.,VINCENT,CAI,5/14/1968,M,M,vincent21@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11758,MR.,COLIN,YUAN,12/22/1968,M,M,colin30@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11759,MRS.,DAWN,NATH,11/22/1969,M,F,dawn42@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,N
-11760,MRS.,MELODY,MORENO,10/27/1967,M,F,melody7@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11761,MR.,EDGAR,MEHTA,4/19/1967,S,M,edgar15@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11762,MR.,RANDALL,GOMEZ,8/24/1967,M,M,randall2@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11763,MR.,ROSS,FERNANDEZ,02-11-1967,M,M,ross15@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11764,MRS.,JESSIE,RAMOS,7/17/1967,S,F,jessie36@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11765,MR.,MARC,TORRES,10-11-1966,M,M,marc15@adventure-works.com,"$80,000 ",5,Bachelors,Professional,Y
-11766,MS.,CANDACE,RAMAN,07-04-1966,S,F,candace12@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-11767,MS.,MEAGAN,MADAN,5/24/1966,S,F,meagan8@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-11768,MR.,CLAYTON,NARA,10-08-1966,M,M,clayton34@adventure-works.com,"$90,000 ",2,Bachelors,Professional,Y
-11769,MS.,HALEY,HERNANDEZ,8/17/1973,S,F,haley53@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,Y
-11770,MR.,PETER,NARA,8/23/1973,S,M,peter21@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,N
-11771,MR.,ISAAC,RIVERA,10-08-1973,S,M,isaac16@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,N
-11772,MR.,CAMERON,MOORE,1/24/1973,M,M,cameron48@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-11773,MR.,GAVIN,DIAZ,07-06-1973,S,M,gavin20@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-11774,MRS.,EMMA,SANCHEZ,04-12-1973,M,F,emma25@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-11775,MRS.,SIERRA,ROBERTS,5/25/1973,S,F,sierra3@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-11776,MR.,SETH,MITCHELL,07-03-1973,M,M,seth38@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-11777,MRS.,MIRANDA,LONG,7/24/1972,S,F,miranda9@adventure-works.com,"$40,000 ",1,Graduate Degree,Skilled Manual,Y
-11778,MRS.,HALEY,HENDERSON,3/21/1971,S,F,haley24@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11779,MRS.,SARAH,JACKSON,7/19/1971,S,F,sarah14@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11780,MRS.,JESSICA,ALEXANDER,11/20/1971,S,F,jessica43@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11781,MR.,CARLOS,GRAY,03-10-1971,M,M,carlos7@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11782,MRS.,BARBARA,JAI,3/17/1971,M,F,barbara42@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11783,MRS.,SARA,MITCHELL,11/17/1971,M,F,sara37@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11784,MR.,JOSE,TURNER,12/19/1972,M,M,jose42@adventure-works.com,"$40,000 ",1,Graduate Degree,Skilled Manual,Y
-11785,MR.,THEODORE,DIAZ,2/25/1972,M,M,theodore3@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-11786,MR.,IAN,MURPHY,9/13/1972,S,M,ian82@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11787,MR.,JERRY,NATH,09-05-1972,M,M,jerry20@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-11788,MRS.,DESTINY,JAMES,2/19/1972,S,F,destiny43@adventure-works.com,"$70,000 ",1,Graduate Degree,Professional,Y
-11789,MRS.,BAILEY,PHILLIPS,2/20/1970,M,F,bailey27@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-11790,MR.,TIMOTHY,GONZALEZ,5/21/1970,M,M,timothy34@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-11791,MR.,CHASE,MORGAN,4/21/1970,M,M,chase13@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11792,MRS.,ALEXIA,PERRY,5/27/1969,M,F,alexia7@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-11793,MR.,XAVIER,ROGERS,3/20/1969,M,M,xavier87@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-11794,MRS.,LAUREN,ROSS,11-01-1969,S,F,lauren51@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,Y
-11795,MRS.,NICOLE,THOMAS,2/15/1969,S,F,nicole11@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,Y
-11796,MRS.,ISABEL,JENKINS,02-07-1969,S,F,isabel7@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,N
-11797,MR.,DEVIN,COLEMAN,03-07-1969,S,M,devin44@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,Y
-11798,MR.,BRENDAN,CHANDE,02-12-1969,M,M,brendan13@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,Y
-11799,MR.,JESSIE,WANG,9/13/1969,M,M,jessie7@adventure-works.com,"$40,000 ",2,Bachelors,Skilled Manual,Y
-11800,MRS.,JENNIFER,BAKER,11-07-1969,M,F,jennifer19@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11801,MR.,AARON,SHARMA,9/16/1969,M,M,aaron30@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11802,MRS.,MADISON,TAYLOR,08-09-1971,M,F,madison9@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11803,MRS.,JAN,HERNANDEZ,09-12-1971,S,F,jan15@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11804,MRS.,HALEY,TURNER,4/18/1971,M,F,haley44@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11805,MR.,RICHARD,GREEN,03-12-1971,M,M,richard25@adventure-works.com,"$70,000 ",2,Graduate Degree,Professional,Y
-11806,MRS.,JENNIFER,STEWART,08-10-1971,M,F,jennifer52@adventure-works.com,"$70,000 ",2,Graduate Degree,Professional,Y
-11807,MR.,LUCAS,BAKER,09-04-1971,M,M,lucas48@adventure-works.com,"$70,000 ",3,Graduate Degree,Professional,Y
-11808,MR.,JAMES,PARKER,04-12-1969,M,M,james57@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-11809,MR.,JUAN,GRAY,01-02-1968,M,M,juan16@adventure-works.com,"$60,000 ",2,Bachelors,Skilled Manual,Y
-11810,MR.,ANTONIO,WASHINGTON,01-07-1967,S,M,antonio13@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-11811,MS.,ABIGAIL,BROOKS,6/15/1967,S,F,abigail22@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-11812,MR.,ANDREW,RODRIGUEZ,9/22/1967,M,M,andrew27@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-11813,MS.,MARY,PATTERSON,11-12-1967,M,F,mary40@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-11814,MR.,DALTON,MORGAN,07-08-1970,M,M,dalton84@adventure-works.com,"$60,000 ",2,Graduate Degree,Professional,Y
-11815,MRS.,HANNAH,PATTERSON,4/24/1970,M,F,hannah33@adventure-works.com,"$70,000 ",3,Graduate Degree,Professional,Y
-11816,MR.,JOE,TORRES,10/23/1970,M,M,joe35@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-11817,MRS.,MORGAN,MILLER,11/27/1970,S,F,morgan29@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-11818,MR.,DANIEL,GARCIA,4/22/1970,M,M,daniel8@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-11819,MR.,JOSE,LAL,10-10-1967,M,M,jose23@adventure-works.com,"$70,000 ",2,Bachelors,Skilled Manual,Y
-11820,MS.,KATELYN,LOPEZ,8/26/1966,M,F,katelyn45@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-11821,MR.,AUSTIN,JOHNSON,4/15/1966,M,M,austin40@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-11822,MS.,ROHINTON,WADIA,6/13/1966,M,F,rohinton1@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-11823,MS.,MORGAN,TURNER,10/24/1966,M,F,morgan3@adventure-works.com,"$70,000 ",0,Graduate Degree,Professional,Y
-11824,MRS.,JILL,MARTIN,10-07-1966,M,F,jill6@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-11825,MRS.,AIMEE,SHE,5/18/1966,S,F,aimee17@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11826,MRS.,JESSIE,ALONSO,2/15/1966,M,F,jessie6@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11827,MRS.,SARA,BAKER,9/20/1969,M,F,sara43@adventure-works.com,"$60,000 ",2,Graduate Degree,Professional,Y
-11828,MRS.,KATHERINE,MARTINEZ,06-08-1969,M,F,katherine88@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11829,MRS.,SOPHIA,CAMPBELL,11-02-1969,M,F,sophia5@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11830,MRS.,TAYLOR,GARCIA,1/15/1969,M,F,taylor63@adventure-works.com,"$80,000 ",3,Graduate Degree,Professional,Y
-11831,MR.,CHRISTIAN,ROSS,11/24/1969,M,M,christian18@adventure-works.com,"$80,000 ",3,Graduate Degree,Professional,Y
-11832,MS.,ZOE,MURPHY,04-05-1965,S,F,zoe13@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-11833,MR.,OSCAR,PRICE,7/23/1965,M,M,oscar9@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-11834,MR.,FERNANDO,FLORES,10/25/1965,S,M,fernando55@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,N
-11835,MR.,ELIJAH,RUSSELL,6/19/1965,S,M,elijah21@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-11836,MR.,GARRETT,TRAVERS,4/27/1965,M,M,garrett9@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-11837,MRS.,HALEY,ALEXANDER,08-09-1965,S,F,haley38@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-11838,MR.,JUSTIN,RODRIGUEZ,02-09-1965,S,M,justin48@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,N
-11839,MR.,TYLER,BROWN,7/25/1965,S,M,tyler9@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-11840,MR.,JULIAN,PATTERSON,5/17/1965,M,M,julian12@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-11841,MR.,SEAN,NELSON,3/16/1964,M,M,sean41@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-11842,MR.,JUSTIN,WILSON,10-04-1964,S,M,justin38@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11843,MRS.,CHRISTY,NARA,11-11-1964,S,F,christy34@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,N
-11844,MRS.,MICHELE,ALVAREZ,04-08-1964,S,F,michele39@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11845,MRS.,NATALIE,JONES,8/18/1924,S,F,natalie71@adventure-works.com,"$30,000 ",2,High School,Skilled Manual,N
-11846,MRS.,SAVANNAH,REED,6/15/1964,S,F,savannah18@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11847,MRS.,CASSIDY,DIAZ,12-01-1964,S,F,cassidy23@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,N
-11848,MR.,JOSHUA,LEWIS,2/28/1964,M,M,joshua23@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11849,MRS.,FAITH,REED,9/13/1964,S,F,faith36@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11850,MRS.,BROOKE,RAMIREZ,3/23/1964,S,F,brooke7@adventure-works.com,"$50,000 ",4,Bachelors,Skilled Manual,Y
-11851,MRS.,JADA,MITCHELL,09-08-1963,S,F,jada23@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11852,MR.,KYLE,RUSSELL,10/25/1963,S,M,kyle15@adventure-works.com,"$60,000 ",4,Bachelors,Professional,N
-11853,MS.,GRACE,JONES,11/18/1968,S,F,grace2@adventure-works.com,"$60,000 ",0,Bachelors,Professional,Y
-11854,MR.,JASON,MITCHELL,4/18/1968,S,M,jason40@adventure-works.com,"$60,000 ",2,Graduate Degree,Professional,N
-11855,MR.,CHRISTIAN,WALKER,8/13/1963,M,M,christian44@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11856,MR.,SETH,HERNANDEZ,8/17/1963,M,M,seth26@adventure-works.com,"$60,000 ",3,Graduate Degree,Professional,Y
-11857,MRS.,ISABELLA,YOUNG,03-12-1963,S,F,isabella56@adventure-works.com,"$60,000 ",3,Graduate Degree,Professional,N
-11858,MR.,JORDAN,COLEMAN,12-07-1962,M,M,jordan2@adventure-works.com,"$40,000 ",3,High School,Skilled Manual,Y
-11860,MRS.,NICOLE,WALKER,01-09-1962,M,F,nicole23@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-11861,MRS.,KATHERINE,CARTER,4/24/1962,M,F,katherine58@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-11862,MRS.,OLIVIA,PETERSON,9/15/1961,S,F,olivia40@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11863,MRS.,JESSICA,WOOD,10-11-1961,M,F,jessica26@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11864,MRS.,ELIZABETH,THOMPSON,09-06-1961,M,F,elizabeth19@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11865,MRS.,CHLOE,RIVERA,02-06-1961,M,F,chloe54@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11866,MR.,LUCAS,SCOTT,07-02-1961,M,M,lucas46@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11867,MR.,NATHANIEL,JAMES,4/24/1960,M,M,nathaniel0@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-11868,MS.,JESSICA,PETERSON,08-04-1967,S,F,jessica17@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-11869,MS.,KAITLYN,ADAMS,11-06-1967,S,F,kaitlyn13@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11870,MS.,JILLIAN,GARCIA,7/14/1967,S,F,jillian15@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11871,MR.,DALTON,BENNETT,8/16/1967,S,M,dalton46@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11872,MS.,FAITH,PATTERSON,7/21/1967,S,F,faith9@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-11873,MR.,RYAN,ZHANG,04-12-1967,M,M,ryan27@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-11874,MR.,ADRIAN,BELL,03-10-1967,S,M,adrian15@adventure-works.com,"$60,000 ",0,Bachelors,Professional,N
-11875,MR.,JONATHAN,BROWN,08-03-1960,M,M,jonathan54@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11876,MRS.,MADISON,WHITE,11/13/1960,M,F,madison13@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11877,MRS.,ALEXIS,DIAZ,10-07-1960,M,F,alexis45@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11878,MRS.,CHRISTINE,NARA,02-08-1960,M,F,christine12@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11879,MR.,EDGAR,SAI,10-03-1960,M,M,edgar6@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11880,MRS.,MELISSA,SANCHEZ,8/20/1959,M,F,melissa40@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11881,MR.,RICHARD,MITCHELL,7/24/1959,M,M,richard30@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11882,MR.,PATRICK,STEWART,03-12-1959,M,M,patrick27@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11883,MRS.,HANNAH,ANDERSON,8/14/1959,M,F,hannah9@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11884,MRS.,LATOYA,SHEN,4/26/1959,M,F,latoya2@adventure-works.com,"$80,000 ",5,Graduate Degree,Professional,Y
-11885,MR.,KURT,SHARMA,9/25/1959,M,M,kurt9@adventure-works.com,"$80,000 ",2,Graduate Degree,Professional,Y
-11886,MRS.,KATELYN,PARKER,1/20/1958,M,F,katelyn30@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-11887,MR.,JOSEPH,WHITE,04-05-1958,M,M,joseph19@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11888,MR.,AARON,ROSS,12/22/1958,M,M,aaron3@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11889,MR.,BLAKE,PATTERSON,5/28/1958,S,M,blake58@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11890,MRS.,WHITNEY,LOPEZ,11/15/1958,M,F,whitney15@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11891,MRS.,JAMIE,LIANG,9/17/1958,M,F,jamie20@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-11892,MR.,JULIO,ORTEGA,10-08-1969,M,M,julio23@adventure-works.com,"$90,000 ",1,Graduate Degree,Management,Y
-11893,MR.,ORLANDO,CARLSON,02-09-1969,M,M,orlando18@adventure-works.com,"$90,000 ",2,Graduate Degree,Management,Y
-11894,MRS.,ANN,GONZALEZ,05-04-1969,M,F,ann23@adventure-works.com,"$100,000 ",1,Graduate Degree,Management,Y
-11895,MR.,DUSTIN,CHANDER,7/21/1969,M,M,dustin16@adventure-works.com,"$100,000 ",1,Graduate Degree,Management,Y
-11896,MR.,FRANK,CARLSON,11/18/1969,M,M,frank26@adventure-works.com,"$100,000 ",1,Graduate Degree,Management,Y
-11897,MR.,ORLANDO,ASHE,11/28/1968,S,M,orlando5@adventure-works.com,"$60,000 ",2,Bachelors,Professional,N
-11898,MRS.,ANGELA,HENDERSON,07-03-1970,M,F,angela7@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-11899,MRS.,BRENDA,PEREZ,9/16/1970,S,F,brenda25@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-11900,MR.,BYRON,CARLSON,03-07-1970,S,M,byron12@adventure-works.com,"$90,000 ",2,Bachelors,Professional,Y
-11901,MRS.,STACY,ALVAREZ,2/19/1968,S,F,stacy6@adventure-works.com,"$60,000 ",2,Bachelors,Professional,N
-11902,MR.,DREW,PAL,3/18/1967,M,M,drew13@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-11903,MRS.,KATE,RAJI,4/27/1969,S,F,kate18@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,Y
-11904,MRS.,KAYLEE,COOK,11-09-1969,S,F,kaylee18@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,Y
-11905,MR.,ISAIAH,RAMIREZ,6/16/1969,S,M,isaiah6@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,Y
-11906,MRS.,GABRIELLA,SANDERS,2/18/1967,M,F,gabriella1@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11907,MRS.,SARAH,GARCIA,09-08-1967,S,F,sarah18@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11908,MR.,RAFAEL,TANG,07-11-1966,S,M,rafael27@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11909,MRS.,NICHOLE,SHE,02-10-1966,M,F,nichole0@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,N
-11910,MRS.,JACLYN,ZHENG,06-12-1966,M,F,jaclyn21@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11911,MRS.,RACHAEL,KAPOOR,11/16/1966,M,F,rachael1@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-11912,MRS.,RACHAEL,SAI,12/17/1965,S,F,rachael5@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-11913,MRS.,REBECCA,ROBINSON,06-11-1965,M,F,rebecca3@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-11914,MS.,MEAGAN,RANA,05-08-1968,S,F,meagan11@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-11915,MR.,PHILIP,CARLSON,3/16/1968,S,M,philip17@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-11916,MR.,JOE,RANA,09-07-1965,S,M,joe14@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-11917,MR.,ROY,SANZ,10/22/1965,S,M,roy40@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-11918,MRS.,KAYLEE,HILL,03-03-1964,M,F,kaylee35@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-11919,MR.,WARREN,ANDERSEN,2/18/1964,M,M,warren2@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11920,MRS.,ADRIENNE,GOMEZ,2/28/1964,S,F,adrienne1@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11921,MR.,GILBERT,ZHU,12/23/1964,M,M,gilbert11@adventure-works.com,"$60,000 ",4,Bachelors,Professional,Y
-11922,MR.,JAMES,DAVIS,8/20/1968,S,M,james80@adventure-works.com,"$90,000 ",4,Partial College,Skilled Manual,N
-11923,MS.,SARAH,BRYANT,10/23/1979,M,F,sarah42@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-11924,MR.,IAN,LONG,10/25/1979,S,M,ian50@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-11925,MS.,ASHLEE,JAI,11-06-1978,S,F,ashlee18@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,Y
-11926,MR.,EDUARDO,FOSTER,3/18/1978,S,M,eduardo60@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,N
-11927,MS.,NICOLE,MURPHY,7/24/1978,S,F,nicole32@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,N
-11929,MRS.,VIRGINIA,GONZALEZ,02-12-1946,S,F,virginia21@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-11930,MRS.,JACLYN,NARA,05-04-1947,M,F,jaclyn40@adventure-works.com,"$20,000 ",4,High School,Skilled Manual,N
-11931,MR.,MARCUS,ADAMS,11/13/1978,S,M,marcus34@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-11932,MS.,ELIZABETH,COLEMAN,08-11-1978,M,F,elizabeth35@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-11933,MR.,MATHEW,RUBIO,03-04-1977,S,M,mathew17@adventure-works.com,"$40,000 ",0,Partial High School,Clerical,N
-11934,MR.,JUSTIN,SHAN,10/14/1977,S,M,justin27@adventure-works.com,"$40,000 ",0,Partial High School,Clerical,Y
-11935,MS.,JESSICA,TAYLOR,11/19/1977,S,F,jessica56@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,Y
-11936,MR.,HUNTER,CLARK,04-11-1977,M,M,hunter51@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,Y
-11937,MR.,DEVIN,PEREZ,06-05-1977,M,M,devin35@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,N
-11938,MR.,SETH,ALEXANDER,9/21/1977,M,M,seth67@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-11939,MR.,KEVIN,WASHINGTON,6/22/1977,S,M,kevin16@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-11940,MR.,TYLER,MILLER,07-12-1977,M,M,tyler11@adventure-works.com,"$100,000 ",3,Bachelors,Management,Y
-11941,MR.,ADAM,ROBERTS,11/26/1976,S,M,adam34@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-11942,MR.,GEORGE,GONZALEZ,6/13/1949,M,M,george25@adventure-works.com,"$20,000 ",2,Partial High School,Clerical,Y
-11943,MRS.,DAWN,HUANG,2/27/1949,M,F,dawn7@adventure-works.com,"$20,000 ",2,Partial High School,Clerical,Y
-11944,MRS.,RACHAEL,RODRIGUEZ,10/15/1950,S,F,rachael18@adventure-works.com,"$30,000 ",3,Partial College,Clerical,N
-11945,MR.,DENNIS,HUANG,09-11-1980,M,M,dennis7@adventure-works.com,"$20,000 ",0,Partial College,Skilled Manual,N
-11946,MRS.,BRANDY,SAUNDERS,01-03-1951,S,F,brandy6@adventure-works.com,"$30,000 ",3,High School,Skilled Manual,Y
-11947,MRS.,JENNY,ZHENG,10/22/1951,S,F,jenny21@adventure-works.com,"$30,000 ",3,High School,Skilled Manual,N
-11948,MRS.,TASHA,XU,04-10-1951,M,F,tasha5@adventure-works.com,"$30,000 ",3,High School,Skilled Manual,Y
-11949,MS.,JULIA,BROOKS,11-05-1980,S,F,julia63@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-11950,MS.,JORDAN,CARTER,09-10-1979,M,F,jordan39@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-11951,MRS.,LACEY,HUANG,08-06-1952,M,F,lacey18@adventure-works.com,"$40,000 ",2,Partial College,Skilled Manual,Y
-11952,MR.,DOROTHY,ROBINSON,9/23/1954,S,M,dorothy3@adventure-works.com,"$80,000 ",2,Partial College,Skilled Manual,N
-11953,MS.,COURTNEY,WRIGHT,09-04-1975,S,F,courtney16@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,N
-11954,MR.,JOSEPH,GARCIA,8/17/1975,M,M,joseph23@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-11955,MR.,GABRIEL,GREEN,04-05-1975,S,M,gabriel45@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-11956,MS.,ALEXANDRIA,SANDBERG,09-03-1974,S,F,alexandria27@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-11957,MS.,COURTNEY,HERNANDEZ,08-12-1973,S,F,courtney14@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-11958,MR.,DYLAN,LAL,01-06-1973,S,M,dylan28@adventure-works.com,"$70,000 ",0,Partial College,Professional,Y
-11959,MS.,ELIZABETH,DAVIS,04-07-1973,S,F,elizabeth9@adventure-works.com,"$70,000 ",0,Partial College,Professional,N
-11960,MS.,ANA,GRIFFIN,07-03-1973,S,F,ana19@adventure-works.com,"$70,000 ",0,Partial College,Professional,N
-11961,MS.,ANNE,ALVAREZ,6/24/1973,S,F,anne5@adventure-works.com,"$70,000 ",0,Partial College,Professional,Y
-11962,MS.,ALEXANDRA,ROBERTS,11/28/1976,S,F,alexandra47@adventure-works.com,"$60,000 ",0,Partial College,Professional,N
-11964,MR.,SHARON,SALAVARIA,2/17/1956,S,M,sharon4@adventure-works.com,"$70,000 ",2,High School,Skilled Manual,N
-11965,,KATIE,SHE,10/19/1956,S,NA,katie3@adventure-works.com,"$70,000 ",2,High School,Skilled Manual,Y
-11966,MR.,RAFAEL,BLACK,2/17/1956,S,M,rafael44@adventure-works.com,"$70,000 ",2,High School,Skilled Manual,Y
-11967,MRS.,LATASHA,MUNOZ,02-10-1957,S,F,latasha7@adventure-works.com,"$80,000 ",2,High School,Professional,Y
-11968,MS.,KELSEY,BECKER,10/21/1958,S,F,kelsey19@adventure-works.com,"$130,000 ",0,Graduate Degree,Management,N
-11969,MR.,RANDY,XU,7/25/1958,S,M,randy14@adventure-works.com,"$130,000 ",0,Graduate Degree,Management,N
-11970,MS.,BAILEY,COLLINS,11/16/1973,S,F,bailey22@adventure-works.com,"$80,000 ",0,Bachelors,Management,N
-11971,MS.,AMANDA,ADAMS,09-03-1973,S,F,amanda58@adventure-works.com,"$80,000 ",0,Bachelors,Management,N
-11972,MS.,KATHERINE,WILLIAMS,3/23/1974,M,F,katherine73@adventure-works.com,"$60,000 ",0,Partial College,Professional,N
-11973,MS.,CAROLINE,BARNES,02-03-1974,S,F,caroline5@adventure-works.com,"$60,000 ",0,Partial College,Professional,N
-11974,MR.,RANDY,SUN,02-07-1974,S,M,randy15@adventure-works.com,"$60,000 ",0,Partial College,Professional,N
-11975,MS.,DESTINY,GARCIA,10-04-1974,S,F,destiny16@adventure-works.com,"$60,000 ",0,High School,Professional,N
-11976,MRS.,AUDREY,RAMOS,5/26/1959,S,F,audrey19@adventure-works.com,"$120,000 ",1,Bachelors,Management,N
-11977,MS.,BONNIE,JAI,5/23/1959,M,F,bonnie17@adventure-works.com,"$130,000 ",0,Graduate Degree,Management,Y
-11978,MR.,JACKSON,WASHINGTON,10/22/1966,M,M,jackson15@adventure-works.com,"$130,000 ",0,Graduate Degree,Management,Y
-11979,MR.,CHRISTOPHER,JOHNSON,05-08-1957,M,M,christopher25@adventure-works.com,"$80,000 ",2,Partial High School,Skilled Manual,N
-11980,MRS.,KIMBERLY,RICHARDSON,12/18/1957,S,F,kimberly13@adventure-works.com,"$60,000 ",2,High School,Professional,N
-11981,MRS.,ALEXANDRIA,HOWARD,02-03-1957,S,F,alexandria33@adventure-works.com,"$60,000 ",2,High School,Professional,N
-11982,MRS.,ALEXANDRA,FOSTER,04-04-1957,S,F,alexandra37@adventure-works.com,"$60,000 ",2,High School,Professional,Y
-11983,MRS.,CHERYL,ORTEGA,2/27/1957,M,F,cheryl24@adventure-works.com,"$70,000 ",3,Partial College,Professional,Y
-11984,MR.,ALEX,CAMPBELL,06-06-1957,M,M,alex35@adventure-works.com,"$80,000 ",2,Bachelors,Management,Y
-11985,MRS.,MELANIE,HUGHES,11/18/1957,M,F,melanie27@adventure-works.com,"$80,000 ",2,Bachelors,Management,N
-11986,MR.,MAX,ALVAREZ,7/24/1963,S,M,max5@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-11987,MRS.,DIANE,VAZQUEZ,11/27/1967,M,F,diane19@adventure-works.com,"$90,000 ",4,Bachelors,Professional,Y
-11988,MRS.,KATHRYN,CHAPMAN,8/20/1962,S,F,kathryn14@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-11989,MRS.,KARA,ANAND,3/28/1962,S,F,kara20@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-11990,MRS.,JOANNA,VAZQUEZ,7/15/1962,S,F,joanna13@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-11991,MR.,FREDERICK,MARTINEZ,08-10-1962,M,M,frederick14@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-11992,MRS.,TONYA,CHANDE,6/13/1961,S,F,tonya14@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11993,MRS.,ROSA,WANG,3/19/1961,S,F,rosa1@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,N
-11994,MS.,LEAH,HU,10/22/1966,S,F,leah16@adventure-works.com,"$110,000 ",0,Graduate Degree,Management,N
-11995,MR.,KELVIN,CARSON,6/14/1960,M,M,kelvin11@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11996,MRS.,VERONICA,SRINI,08-02-1960,S,F,veronica9@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11997,MRS.,KRISTINA,KAPOOR,04-07-1960,M,F,kristina1@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11998,MRS.,DONNA,SHARMA,08-10-1960,M,F,donna9@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-11999,MR.,JOHNNY,SHAN,06-05-1960,M,M,johnny11@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-12000,MS.,ASHLEY,RUSSELL,03-12-1965,S,F,ashley47@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12001,MRS.,SHANNON,YANG,07-06-1965,S,F,shannon5@adventure-works.com,"$80,000 ",5,Bachelors,Professional,Y
-12002,MS.,ADRIANA,LOPEZ,02-06-1964,S,F,adriana17@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12003,MS.,AUDREY,MUNOZ,03-11-1963,S,F,audrey8@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12004,MR.,JARROD,SURI,12/20/1963,S,M,jarrod0@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12005,MR.,GILBERT,SHEN,7/17/1962,M,M,gilbert23@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-12006,MR.,RICHARD,BLUE,3/16/1962,M,M,richard59@adventure-works.com,"$70,000 ",5,Partial College,Skilled Manual,Y
-12007,MRS.,SHANNON,SUN,7/26/1961,M,F,shannon12@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-12008,MRS.,SHARON,YUAN,8/22/1961,M,F,sharon13@adventure-works.com,"$70,000 ",5,Partial College,Skilled Manual,Y
-12009,MRS.,ANN,MARTINEZ,08-03-1957,S,F,ann22@adventure-works.com,"$80,000 ",1,Partial College,Skilled Manual,Y
-12010,MR.,MAX,SERRANO,2/26/1957,M,M,max16@adventure-works.com,"$80,000 ",1,Partial College,Skilled Manual,Y
-12011,MRS.,MORGAN,JOHNSON,2/17/1935,S,F,morgan24@adventure-works.com,"$30,000 ",2,Partial College,Clerical,N
-12012,MRS.,MONICA,SCHMIDT,10/22/1960,M,F,monica11@adventure-works.com,"$60,000 ",3,Partial College,Skilled Manual,N
-12013,MRS.,KAYLA,LEWIS,03-07-1953,S,F,kayla20@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12014,MR.,DEVIN,SANDERS,02-09-1949,M,M,devin65@adventure-works.com,"$10,000 ",2,High School,Skilled Manual,Y
-12015,MR.,JACOB,WHITE,07-09-1976,S,M,jacob11@adventure-works.com,"$30,000 ",0,High School,Skilled Manual,N
-12016,MS.,MEREDITH,SERRANO,12/13/1975,S,F,meredith40@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,N
-12017,MR.,DAVID,SIMMONS,10/27/1976,M,M,david48@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12018,MR.,DEVIN,HENDERSON,08-02-1980,M,M,devin43@adventure-works.com,"$30,000 ",0,High School,Skilled Manual,Y
-12019,MS.,GABRIELLE,COX,11/13/1980,S,F,gabrielle10@adventure-works.com,"$30,000 ",0,High School,Skilled Manual,N
-12020,MS.,OLIVIA,ROGERS,9/14/1979,M,F,olivia27@adventure-works.com,"$30,000 ",0,High School,Skilled Manual,Y
-12021,MRS.,DEBORAH,YUAN,2/13/1946,S,F,deborah11@adventure-works.com,"$10,000 ",5,High School,Skilled Manual,N
-12022,MR.,JOSE,WRIGHT,11/22/1980,S,M,jose56@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12023,MR.,FERNANDO,JOHNSON,07-08-1978,S,M,fernando2@adventure-works.com,"$30,000 ",0,Partial High School,Clerical,N
-12024,MR.,SAMUEL,EDWARDS,6/26/1978,S,M,samuel32@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12025,MR.,LOGAN,DIAZ,6/18/1978,M,M,logan22@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12026,MR.,LUCAS,FLORES,7/17/1978,M,M,lucas60@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,N
-12027,MS.,HALEY,WOOD,10/26/1978,M,F,haley21@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12028,MS.,SARAH,LEWIS,11-11-1977,S,F,sarah23@adventure-works.com,"$30,000 ",0,Partial High School,Clerical,N
-12029,MR.,DAMIEN,HU,10/16/1977,M,M,damien16@adventure-works.com,"$30,000 ",0,Partial High School,Clerical,N
-12030,MS.,ANA,WASHINGTON,02-05-1977,S,F,ana12@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12031,MR.,LOGAN,JAI,10/19/1979,S,M,logan5@adventure-works.com,"$30,000 ",0,Partial High School,Clerical,N
-12032,MR.,TYLER,TAYLOR,5/26/1979,S,M,tyler17@adventure-works.com,"$30,000 ",0,Partial High School,Clerical,N
-12033,MS.,KRISTEN,GUO,05-02-1979,S,F,kristen15@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,N
-12034,MR.,JULIAN,LONG,3/14/1941,M,M,julian11@adventure-works.com,"$40,000 ",2,Bachelors,Management,Y
-12035,MR.,GERALD,PRASAD,6/22/1941,M,M,gerald39@adventure-works.com,"$40,000 ",2,Bachelors,Management,N
-12036,MRS.,SUMMER,LOPEZ,02-06-1941,M,F,summer14@adventure-works.com,"$40,000 ",2,Bachelors,Management,Y
-12037,MRS.,PATRICIA,CHAPMAN,9/14/1943,S,F,patricia7@adventure-works.com,"$40,000 ",2,Bachelors,Management,Y
-12038,MR.,GEORGE,VANCE,08-10-1943,S,M,george10@adventure-works.com,"$40,000 ",2,Bachelors,Management,Y
-12039,MR.,RICARDO,NATH,2/13/1943,M,M,ricardo17@adventure-works.com,"$70,000 ",2,Graduate Degree,Management,Y
-12040,MR.,RICHARD,TORRES,8/18/1976,M,M,richard85@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,Y
-12041,MR.,SETH,MARTIN,06-07-1975,M,M,seth15@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12042,MR.,ALEX,CARTER,9/27/1975,M,M,alex39@adventure-works.com,"$40,000 ",0,High School,Skilled Manual,Y
-12043,MR.,CARSON,PATTERSON,9/21/1974,M,M,carson9@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,Y
-12044,MS.,MADELINE,LOPEZ,5/27/1974,S,F,madeline18@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,Y
-12045,MR.,LUIS,RUSSELL,6/25/1974,S,M,luis19@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,N
-12046,MS.,ALEXA,COOK,7/18/1974,S,F,alexa20@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,N
-12047,MS.,ALEXANDRA,DAVIS,3/25/1974,S,F,alexandra68@adventure-works.com,"$40,000 ",0,Partial College,Skilled Manual,N
-12048,MS.,KAYLA,COLEMAN,5/19/1972,S,F,kayla30@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-12049,MS.,ANGELA,RUSSELL,04-11-1968,S,F,angela22@adventure-works.com,"$80,000 ",0,Bachelors,Management,Y
-12050,MR.,AARON,YOUNG,9/14/1967,S,M,aaron49@adventure-works.com,"$110,000 ",0,Graduate Degree,Management,N
-12051,MR.,ISAIAH,SCOTT,9/24/1967,S,M,isaiah39@adventure-works.com,"$120,000 ",0,Bachelors,Management,N
-12052,MS.,MAKAYLA,WARD,5/27/1967,S,F,makayla11@adventure-works.com,"$120,000 ",0,Bachelors,Management,N
-12053,MR.,CEDRIC,GAO,5/15/1967,S,M,cedric14@adventure-works.com,"$130,000 ",0,Graduate Degree,Management,Y
-12054,MR.,LUKE,DIAZ,06-04-1968,M,M,luke11@adventure-works.com,"$90,000 ",4,Bachelors,Management,Y
-12055,MRS.,ARIANNA,RICHARDSON,11/20/1968,M,F,arianna31@adventure-works.com,"$90,000 ",4,Bachelors,Management,N
-12056,MR.,IAN,WARD,6/15/1942,M,M,ian69@adventure-works.com,"$120,000 ",2,Graduate Degree,Management,Y
-12057,MRS.,MADELINE,COLLINS,3/15/1943,M,F,madeline2@adventure-works.com,"$120,000 ",2,Graduate Degree,Management,Y
-12058,MRS.,CHLOE,NELSON,07-03-1943,M,F,chloe6@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12059,MR.,JASON,JENKINS,06-02-1943,M,M,jason4@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12060,MR.,ANDREW,WEDGE,4/16/1943,S,M,andrew22@adventure-works.com,"$150,000 ",1,Graduate Degree,Management,N
-12061,MR.,BRYCE,BROOKS,05-09-1943,M,M,bryce2@adventure-works.com,"$160,000 ",1,Bachelors,Management,Y
-12062,MR.,EDWARD,LONG,06-04-1944,M,M,edward58@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12063,MR.,XAVIER,MARTINEZ,09-08-1944,M,M,xavier15@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12064,MR.,JOHN,WHITE,10-09-1944,S,M,john50@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12065,MR.,ISAIAH,COLLINS,07-03-1944,M,M,isaiah24@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12066,MR.,WYATT,POWELL,08-12-1944,M,M,wyatt60@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12067,MR.,AARON,BRYANT,11/14/1944,S,M,aaron17@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12068,MRS.,MARIA,JENKINS,5/22/1944,S,F,maria30@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12069,MR.,GARRETT,KELLY,11-01-1944,M,M,garrett6@adventure-works.com,"$70,000 ",4,Bachelors,Management,N
-12070,MR.,LUKE,ROSS,09-03-1944,M,M,luke22@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12071,MR.,ROBERT,ROBINSON,04-02-1944,M,M,robert78@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12072,MR.,TRISTAN,ROSS,8/24/1944,M,M,tristan4@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12073,MR.,THOMAS,RODRIGUEZ,8/23/1944,M,M,thomas68@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12074,MRS.,MEGAN,JENKINS,10/27/1944,S,F,megan57@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12075,MR.,CAMERON,GRIFFIN,6/26/1944,S,M,cameron16@adventure-works.com,"$60,000 ",4,Bachelors,Management,Y
-12076,MRS.,CHLOE,WASHINGTON,2/26/1944,M,F,chloe80@adventure-works.com,"$70,000 ",5,Bachelors,Management,Y
-12077,MRS.,NICOLE,SANDBERG,3/21/1945,S,F,nicole47@adventure-works.com,"$70,000 ",5,Bachelors,Management,Y
-12078,MR.,JOSE,EDWARDS,2/18/1945,M,M,jose39@adventure-works.com,"$60,000 ",4,Bachelors,Management,Y
-12079,MR.,NATHANIEL,COOPER,10/13/1945,M,M,nathaniel9@adventure-works.com,"$60,000 ",4,Bachelors,Management,N
-12080,MRS.,GRACE,SANCHEZ,06-09-1946,S,F,grace26@adventure-works.com,"$60,000 ",4,Bachelors,Management,Y
-12081,MRS.,KAITLYN,PEREZ,06-05-1946,S,F,kaitlyn10@adventure-works.com,"$60,000 ",5,Bachelors,Management,Y
-12082,MRS.,LAUREN,SANCHEZ,10-12-1946,M,F,lauren0@adventure-works.com,"$70,000 ",5,Bachelors,Management,Y
-12083,MRS.,KAYLA,ALEXANDER,2/28/1946,M,F,kayla43@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12084,MR.,AIDAN,PERRY,08-07-1947,M,M,aidan8@adventure-works.com,"$60,000 ",5,Bachelors,Management,N
-12085,MR.,TYLER,RODRIGUEZ,12/25/1947,M,M,tyler20@adventure-works.com,"$60,000 ",2,Bachelors,Management,Y
-12086,MRS.,EMILY,CLARK,8/13/1947,S,F,emily20@adventure-works.com,"$60,000 ",2,Bachelors,Management,Y
-12087,MR.,SEAN,COOK,7/14/1947,S,M,sean29@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12088,MRS.,LAUREN,THOMPSON,7/22/1947,S,F,lauren33@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12089,MR.,NATHANIEL,RICHARDSON,10/24/1947,M,M,nathaniel10@adventure-works.com,"$70,000 ",4,Bachelors,Management,Y
-12090,MRS.,SAVANNAH,CARTER,07-05-1948,M,F,savannah32@adventure-works.com,"$40,000 ",2,High School,Professional,Y
-12091,MR.,EDDIE,MUNOZ,11-12-1948,M,M,eddie7@adventure-works.com,"$40,000 ",2,High School,Professional,Y
-12092,MR.,AUSTIN,WHITE,02-09-1948,M,M,austin48@adventure-works.com,"$40,000 ",2,High School,Professional,Y
-12093,MR.,LEVI,CHANDRA,11-08-1948,M,M,levi1@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12094,MRS.,BAILEY,BAILEY,9/19/1948,M,F,bailey13@adventure-works.com,"$60,000 ",2,Bachelors,Management,Y
-12095,MR.,AUSTIN,GRIFFIN,2/25/1948,M,M,austin17@adventure-works.com,"$60,000 ",2,Bachelors,Management,Y
-12096,MRS.,CAITLIN,BROOKS,2/27/1948,M,F,caitlin1@adventure-works.com,"$60,000 ",2,Bachelors,Management,N
-12097,MR.,SEAN,ALLEN,11/13/1949,S,M,sean49@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12098,MRS.,GRACE,CLARK,10/25/1949,S,F,grace18@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12099,MRS.,SYDNEY,HALL,11/18/1949,S,F,sydney86@adventure-works.com,"$60,000 ",2,Partial College,Professional,N
-12100,MR.,JON,SUN,4/24/1949,S,M,jon33@adventure-works.com,"$60,000 ",2,Bachelors,Management,Y
-12101,MR.,LOGAN,PATTERSON,4/24/1949,S,M,logan13@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12102,MR.,DEVIN,SIMMONS,06-04-1949,M,M,devin53@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12103,MRS.,CHLOE,WHITE,10-12-1949,M,F,chloe45@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12104,MRS.,MARIAH,ROSS,01-11-1949,M,F,mariah8@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12105,MRS.,ABIGAIL,FOSTER,5/16/1949,S,F,abigail68@adventure-works.com,"$70,000 ",5,Partial College,Professional,Y
-12106,MR.,ISAIAH,BAKER,06-08-1950,M,M,isaiah31@adventure-works.com,"$40,000 ",2,Partial High School,Skilled Manual,Y
-12107,MR.,NATHAN,GONZALES,8/15/1950,M,M,nathan13@adventure-works.com,"$40,000 ",2,Partial High School,Skilled Manual,Y
-12108,MR.,JAMES,WALKER,2/23/1950,M,M,james96@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12109,MRS.,MORGAN,FOSTER,3/20/1950,S,F,morgan85@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12110,MRS.,BIANCA,GUO,02-03-1950,M,F,bianca14@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12111,MRS.,JACQUELINE,GONZALES,08-04-1950,M,F,jacqueline18@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12112,MRS.,ARIANNA,HENDERSON,06-09-1950,M,F,arianna5@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12113,MR.,NATHAN,HUGHES,8/23/1951,M,M,nathan7@adventure-works.com,"$70,000 ",2,High School,Professional,Y
-12114,MR.,CHARLES,RICHARDSON,11-07-1951,M,M,charles58@adventure-works.com,"$70,000 ",2,High School,Professional,Y
-12115,MRS.,CHLOE,RICHARDSON,02-08-1951,S,F,chloe55@adventure-works.com,"$70,000 ",2,High School,Professional,Y
-12116,MRS.,AMANDA,GRAY,2/22/1951,S,F,amanda15@adventure-works.com,"$70,000 ",2,High School,Professional,Y
-12117,MR.,CAMERON,YANG,08-03-1951,M,M,cameron23@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12118,MRS.,MIGUEL,SANCHEZ,1/27/1951,M,F,miguel72@adventure-works.com,"$60,000 ",2,Partial College,Professional,Y
-12119,MR.,KEITH,RAJE,06-01-1951,M,M,keith17@adventure-works.com,"$60,000 ",2,Partial College,Professional,N
-12120,MR.,XAVIER,SIMMONS,07-11-1952,M,M,xavier55@adventure-works.com,"$60,000 ",3,High School,Professional,Y
-12121,MR.,LOGAN,WILSON,9/25/1952,S,M,logan58@adventure-works.com,"$60,000 ",3,High School,Professional,Y
-12122,MRS.,DESTINY,COLEMAN,12/18/1952,M,F,destiny54@adventure-works.com,"$70,000 ",4,Partial College,Professional,Y
-12123,MR.,WESLEY,LIANG,6/14/1958,M,M,wesley16@adventure-works.com,"$170,000 ",2,Bachelors,Management,Y
-12124,MRS.,BRANDI,GILL,02-08-1957,S,F,brandi13@adventure-works.com,"$110,000 ",2,Partial College,Professional,Y
-12125,MRS.,DIANA,ORTEGA,01-12-1957,M,F,diana21@adventure-works.com,"$130,000 ",2,Partial College,Professional,Y
-12126,MRS.,TAMMY,RAMAN,11/18/1957,M,F,tammy13@adventure-works.com,"$150,000 ",2,High School,Professional,Y
-12127,MRS.,GRACE,DAVIS,12/14/1956,M,F,grace4@adventure-works.com,"$100,000 ",2,Partial College,Professional,Y
-12128,MRS.,KRISTY,MUNOZ,12/16/1956,M,F,kristy7@adventure-works.com,"$120,000 ",3,High School,Professional,Y
-12129,MRS.,WENDY,ALVAREZ,9/21/1956,M,F,wendy5@adventure-works.com,"$120,000 ",3,High School,Professional,Y
-12130,MRS.,SUZANNE,ZHOU,08-12-1956,S,F,suzanne10@adventure-works.com,"$120,000 ",3,High School,Professional,Y
-12131,MR.,RANDALL,DOMINGUEZ,10/17/1955,M,M,randall14@adventure-works.com,"$90,000 ",2,High School,Professional,N
-12132,MRS.,KAITLYN,HENDERSON,11/19/1955,M,F,kaitlyn72@adventure-works.com,"$110,000 ",3,Partial College,Professional,Y
-12133,MRS.,COLLEEN,XIE,12/26/1955,M,F,colleen27@adventure-works.com,"$130,000 ",3,Partial College,Professional,Y
-12134,MR.,HECTOR,ALONSO,9/23/1955,M,M,hector6@adventure-works.com,"$170,000 ",3,High School,Professional,Y
-12135,MR.,FERNANDO,TAYLOR,04-11-1957,M,M,fernando9@adventure-works.com,"$90,000 ",2,Partial College,Professional,Y
-12136,MR.,BLAKE,TURNER,11-08-1932,M,M,blake41@adventure-works.com,"$30,000 ",4,High School,Professional,N
-12137,MR.,JACK,GREEN,11-04-1932,M,M,jack51@adventure-works.com,"$90,000 ",3,Graduate Degree,Management,Y
-12138,MR.,COLIN,JAI,11/26/1933,M,M,colin34@adventure-works.com,"$70,000 ",3,Graduate Degree,Management,Y
-12139,MR.,FRANKLIN,YANG,3/15/1933,M,M,franklin5@adventure-works.com,"$70,000 ",4,Graduate Degree,Management,Y
-12140,MR.,OSCAR,RUSSELL,03-11-1965,S,M,oscar6@adventure-works.com,"$90,000 ",4,Partial College,Professional,N
-12141,MRS.,KAITLYN,LEE,9/20/1965,S,F,kaitlyn45@adventure-works.com,"$90,000 ",4,Partial College,Professional,Y
-12142,MRS.,GABRIELLA,TORRES,01-06-1965,S,F,gabriella11@adventure-works.com,"$100,000 ",4,Bachelors,Management,Y
-12143,MR.,LOGAN,TURNER,11/13/1965,M,M,logan31@adventure-works.com,"$100,000 ",4,Bachelors,Management,Y
-12144,MRS.,KELLY,JENKINS,11-10-1965,M,F,kelly11@adventure-works.com,"$100,000 ",4,Partial College,Professional,Y
-12145,MR.,BRANDON,BUTLER,10-04-1965,M,M,brandon11@adventure-works.com,"$100,000 ",4,Partial College,Professional,Y
-12146,MR.,XAVIER,THOMAS,7/14/1965,S,M,xavier8@adventure-works.com,"$110,000 ",3,Bachelors,Management,N
-12147,MRS.,TAYLOR,PATTERSON,12/28/1964,M,F,taylor35@adventure-works.com,"$80,000 ",4,Bachelors,Management,Y
-12148,MRS.,GABRIELLE,MORRIS,12-06-1964,S,F,gabrielle1@adventure-works.com,"$100,000 ",5,Partial College,Professional,Y
-12149,MRS.,BAILEY,SCOTT,6/24/1964,M,F,bailey33@adventure-works.com,"$100,000 ",5,Partial College,Professional,Y
-12150,MR.,LOGAN,WANG,08-12-1964,M,M,logan24@adventure-works.com,"$130,000 ",2,Graduate Degree,Management,Y
-12151,MR.,STEVEN,KELLY,05-12-1964,M,M,steven12@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12152,MR.,ADRIAN,RAMIREZ,3/26/1964,M,M,adrian9@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12153,MRS.,KAITLYN,BAILEY,9/15/1956,S,F,kaitlyn54@adventure-works.com,"$70,000 ",3,Partial College,Professional,Y
-12154,MRS.,HAILEY,ADAMS,7/24/1956,S,F,hailey55@adventure-works.com,"$80,000 ",3,Partial College,Professional,Y
-12155,MRS.,GABRIELLA,LOPEZ,10/15/1956,S,F,gabriella44@adventure-works.com,"$80,000 ",3,Partial College,Professional,Y
-12156,MRS.,BONNIE,RAJI,01-12-1934,M,F,bonnie27@adventure-works.com,"$70,000 ",4,Graduate Degree,Management,Y
-12157,MR.,WILLIAM,WHITE,9/22/1934,M,M,william8@adventure-works.com,"$120,000 ",1,Graduate Degree,Management,Y
-12158,MR.,KYLE,PHILLIPS,4/24/1963,M,M,kyle36@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12159,MRS.,KAITLYN,SCOTT,11/14/1963,M,F,kaitlyn11@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12160,MS.,JACLYN,ZHANG,11/24/1963,S,F,jaclyn0@adventure-works.com,"$90,000 ",0,Partial College,Professional,Y
-12161,MRS.,ALEXANDRIA,ROGERS,03-08-1963,M,F,alexandria40@adventure-works.com,"$100,000 ",5,Partial College,Professional,Y
-12162,MR.,LUKE,MITCHELL,12/20/1963,S,M,luke43@adventure-works.com,"$120,000 ",4,Partial College,Professional,Y
-12163,MR.,AARON,WANG,09-05-1963,S,M,aaron24@adventure-works.com,"$150,000 ",2,Bachelors,Management,N
-12164,MR.,NOAH,BUTLER,4/13/1963,M,M,noah11@adventure-works.com,"$150,000 ",3,Bachelors,Management,Y
-12165,MR.,CALEB,FLORES,06-12-1962,M,M,caleb9@adventure-works.com,"$80,000 ",5,Partial College,Professional,Y
-12166,MR.,JARED,ROGERS,3/14/1962,M,M,jared21@adventure-works.com,"$80,000 ",5,Partial College,Professional,Y
-12167,MR.,SEBASTIAN,STEWART,9/21/1962,S,M,sebastian21@adventure-works.com,"$100,000 ",1,Partial College,Professional,Y
-12168,MR.,HUNTER,JACKSON,02-09-1961,M,M,hunter45@adventure-works.com,"$80,000 ",5,Partial College,Professional,Y
-12169,MRS.,ABIGAIL,HOWARD,11/16/1961,S,F,abigail16@adventure-works.com,"$120,000 ",1,High School,Professional,Y
-12170,MRS.,SARA,REED,01-07-1961,M,F,sara22@adventure-works.com,"$130,000 ",1,Bachelors,Management,N
-12171,MRS.,ALYSSA,COOPER,02-03-1961,S,F,alyssa35@adventure-works.com,"$130,000 ",1,Bachelors,Management,N
-12172,MR.,EDUARDO,ALEXANDER,03-05-1961,S,M,eduardo62@adventure-works.com,"$130,000 ",1,Bachelors,Management,N
-12173,MR.,DALTON,EDWARDS,09-12-1961,M,M,dalton44@adventure-works.com,"$130,000 ",1,Bachelors,Management,Y
-12174,MR.,CHARLES,PHILLIPS,05-07-1961,M,M,charles42@adventure-works.com,"$170,000 ",1,Graduate Degree,Management,N
-12175,MR.,LUKE,POWELL,9/13/1955,S,M,luke27@adventure-works.com,"$60,000 ",2,High School,Professional,N
-12176,MR.,CODY,JAMES,11/16/1955,S,M,cody0@adventure-works.com,"$60,000 ",2,High School,Professional,N
-12177,MR.,KEVIN,CAMPBELL,3/27/1955,S,M,kevin44@adventure-works.com,"$70,000 ",4,High School,Professional,Y
-12178,MR.,ETHAN,SHAN,05-11-1954,M,M,ethan27@adventure-works.com,"$80,000 ",2,Partial High School,Skilled Manual,Y
-12179,MRS.,ALEXIS,JONES,10-10-1935,S,F,alexis3@adventure-works.com,"$50,000 ",2,Graduate Degree,Management,Y
-12180,MRS.,HOLLY,MEHTA,9/17/1936,S,F,holly13@adventure-works.com,"$50,000 ",2,Graduate Degree,Management,Y
-12181,MRS.,KATELYN,SANDERS,8/21/1936,M,F,katelyn2@adventure-works.com,"$130,000 ",2,Graduate Degree,Management,Y
-12182,MRS.,ERIN,TORRES,12-07-1960,M,F,erin8@adventure-works.com,"$70,000 ",5,High School,Professional,Y
-12183,MRS.,EMILY,ROBINSON,10/26/1960,M,F,emily19@adventure-works.com,"$80,000 ",5,Partial College,Professional,Y
-12184,MR.,ISAIAH,PEREZ,12-08-1960,M,M,isaiah26@adventure-works.com,"$100,000 ",3,Partial College,Professional,Y
-12185,MS.,KAITLYN,PATTERSON,7/27/1960,S,F,kaitlyn77@adventure-works.com,"$100,000 ",0,Partial College,Professional,Y
-12186,MR.,BRYANT,SRINI,05-12-1960,S,M,bryant8@adventure-works.com,"$100,000 ",0,Partial College,Professional,N
-12187,MR.,RUBEN,SUBRAM,7/22/1960,M,M,ruben14@adventure-works.com,"$100,000 ",0,Partial College,Professional,Y
-12188,MRS.,ASHLEY,THOMAS,5/23/1960,S,F,ashley11@adventure-works.com,"$110,000 ",3,Partial College,Professional,Y
-12189,MRS.,SOPHIA,WRIGHT,2/19/1960,M,F,sophia18@adventure-works.com,"$130,000 ",4,Bachelors,Management,Y
-12190,MR.,JUSTIN,GONZALES,12/17/1960,S,M,justin14@adventure-works.com,"$170,000 ",1,Graduate Degree,Management,N
-12191,MRS.,MELISSA,WASHINGTON,04-10-1954,M,F,melissa8@adventure-works.com,"$60,000 ",2,Partial High School,Skilled Manual,Y
-12192,MRS.,JOCELYN,HAYES,11/26/1954,S,F,jocelyn22@adventure-works.com,"$60,000 ",2,Partial High School,Skilled Manual,N
-12193,MR.,CALEB,SIMMONS,02-04-1954,S,M,caleb12@adventure-works.com,"$70,000 ",3,High School,Professional,Y
-12194,MRS.,DESTINY,FOSTER,7/17/1953,S,F,destiny64@adventure-works.com,"$70,000 ",3,Graduate Degree,Management,Y
-12195,MRS.,ERIN,MORRIS,11/24/1953,S,F,erin22@adventure-works.com,"$70,000 ",3,Graduate Degree,Management,Y
-12196,MRS.,ALEXIS,MILLER,09-07-1953,S,F,alexis5@adventure-works.com,"$70,000 ",3,Graduate Degree,Management,Y
-12197,MR.,ADAM,HERNANDEZ,1/15/1953,M,M,adam47@adventure-works.com,"$70,000 ",3,Graduate Degree,Management,N
-12198,MR.,NOAH,SCOTT,2/14/1953,M,M,noah42@adventure-works.com,"$60,000 ",3,Graduate Degree,Management,Y
-12199,MRS.,CHRISTINA,RICHARDSON,05-08-1952,S,F,christina7@adventure-works.com,"$40,000 ",3,Partial College,Professional,N
-12200,MR.,RAFAEL,SHARMA,7/23/1937,M,M,rafael33@adventure-works.com,"$70,000 ",4,Graduate Degree,Management,Y
-12201,MRS.,MINDY,YUAN,08-06-1938,M,F,mindy11@adventure-works.com,"$100,000 ",2,Graduate Degree,Management,Y
-12202,MR.,XAVIER,ROSS,5/25/1938,M,M,xavier45@adventure-works.com,"$100,000 ",2,Graduate Degree,Management,Y
-12203,MR.,ZACHARY,HUGHES,03-06-1938,M,M,zachary10@adventure-works.com,"$120,000 ",2,Graduate Degree,Management,Y
-12204,MR.,BRADLEY,JAI,02-02-1938,M,M,bradley13@adventure-works.com,"$120,000 ",2,Graduate Degree,Management,Y
-12205,MRS.,MADISON,LONG,10-02-1938,S,F,madison45@adventure-works.com,"$130,000 ",2,Bachelors,Management,N
-12206,MRS.,SIERRA,PARKER,04-12-1939,M,F,sierra7@adventure-works.com,"$90,000 ",5,Bachelors,Management,Y
-12207,MR.,SAMUEL,HILL,6/20/1940,S,M,samuel42@adventure-works.com,"$80,000 ",4,Bachelors,Management,Y
-12208,MRS.,DOMINIQUE,SANCHEZ,2/19/1940,M,F,dominique17@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12209,MRS.,MINDY,JAI,6/26/1940,M,F,mindy16@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12210,MR.,ALAN,HE,9/25/1978,M,M,alan22@adventure-works.com,"$10,000 ",0,Graduate Degree,Manual,N
-12211,MR.,VICTOR,ROMERO,2/27/1974,M,M,victor10@adventure-works.com,"$10,000 ",0,Graduate Degree,Manual,Y
-12212,MS.,SHAWNA,XIE,5/19/1969,M,F,shawna3@adventure-works.com,"$10,000 ",0,Graduate Degree,Manual,Y
-12213,MR.,ALEJANDRO,LAL,02-02-1963,M,M,alejandro35@adventure-works.com,"$10,000 ",1,Graduate Degree,Manual,Y
-12214,MRS.,JULIE,RAJE,9/20/1962,M,F,julie19@adventure-works.com,"$20,000 ",1,Graduate Degree,Manual,Y
-12215,MRS.,KARLA,SHE,12/14/1962,M,F,karla0@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12216,MR.,GERALD,RODRIGUEZ,04-02-1962,M,M,gerald5@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12217,MR.,KYLE,ROBERTS,07-03-1961,M,M,kyle34@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12218,MR.,MITCHELL,XU,11/26/1961,M,M,mitchell4@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12219,MR.,KURT,NARA,4/14/1961,M,M,kurt17@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12220,MRS.,VIRGINIA,SARA,1/16/1961,M,F,virginia12@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12221,MRS.,BRANDI,RUIZ,01-09-1961,M,F,brandi2@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12222,MRS.,JENNY,XU,3/20/1961,M,F,jenny14@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12223,MRS.,FELICIA,VAZQUEZ,2/19/1961,M,F,felicia14@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12224,MR.,TRISTAN,HENDERSON,9/18/1935,M,M,tristan5@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12225,MRS.,KATHLEEN,ORTEGA,11-02-1958,M,F,kathleen21@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12226,MRS.,FAITH,WARD,04-10-1957,M,F,faith31@adventure-works.com,"$10,000 ",1,Bachelors,Clerical,Y
-12227,MRS.,KELSEY,RAJE,08-11-1957,M,F,kelsey13@adventure-works.com,"$10,000 ",1,Partial College,Manual,Y
-12229,MRS.,KARI,GOMEZ,11/17/1956,M,F,kari22@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12230,MR.,WESLEY,ZHENG,02-12-1956,M,M,wesley19@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12231,MRS.,ISABELLE,PATTERSON,3/19/1955,S,F,isabelle9@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12232,MR.,SEAN,HERNANDEZ,4/14/1955,S,M,sean51@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12233,MR.,JERRY,YUAN,05-09-1955,M,M,jerry7@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12234,MR.,CLARENCE,ZENG,2/25/1954,M,M,clarence15@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12235,MRS.,DONNA,RAI,5/26/1938,M,F,donna15@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y
-12236,MRS.,KENDRA,GILL,06-06-1941,M,F,kendra13@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12237,MRS.,RUTH,MADAN,05-11-1941,M,F,ruth12@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12238,MRS.,MONICA,RAMAN,7/28/1941,M,F,monica12@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12239,MR.,ALBERTO,RAMOS,06-01-1942,M,M,alberto17@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12240,MR.,CLAYTON,SHARMA,12-04-1980,S,M,clayton27@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12241,MS.,KRISTINE,SANDBERG,11-06-1979,S,F,kristine21@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12242,MR.,GILBERT,LIANG,02-04-1979,S,M,gilbert14@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12243,MS.,KRISTY,RUBIO,5/18/1980,S,F,kristy19@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12244,MS.,AMY,HUANG,11/22/1980,M,F,amy13@adventure-works.com,"$20,000 ",0,Bachelors,Clerical,Y
-12245,MR.,FRANCISCO,GONZALEZ,11/26/1978,S,M,francisco20@adventure-works.com,"$10,000 ",0,Partial College,Manual,Y
-12246,MR.,SHAWN,LUO,10-12-1979,M,M,shawn8@adventure-works.com,"$10,000 ",1,High School,Manual,Y
-12247,MS.,BRANDY,RAMAN,10/18/1979,S,F,brandy8@adventure-works.com,"$20,000 ",0,Bachelors,Clerical,Y
-12248,MR.,DEVIN,TAYLOR,3/14/1978,S,M,devin7@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12249,MR.,JESSIE,CAI,9/16/1978,M,M,jessie27@adventure-works.com,"$20,000 ",0,Bachelors,Clerical,Y
-12250,MRS.,ANDREA,COLLINS,04-08-1977,S,F,andrea26@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12251,MR.,TROY,SURI,04-09-1977,M,M,troy0@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12252,MR.,OMAR,LIU,10-01-1977,M,M,omar4@adventure-works.com,"$20,000 ",0,Partial College,Manual,N
-12253,MS.,JENNY,SUN,2/14/1977,S,F,jenny15@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12254,MR.,CALVIN,DENG,2/26/1943,S,M,calvin1@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12255,MRS.,ROBYN,ALVAREZ,08-06-1961,S,F,robyn3@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12256,MRS.,WENDY,RAMOS,10/23/1961,M,F,wendy16@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12257,MR.,ROSS,RUIZ,04-06-1961,M,M,ross22@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12258,MRS.,JAMIE,LI,9/27/1961,M,F,jamie5@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12259,MRS.,CINDY,MADAN,4/16/1961,M,F,cindy7@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12260,MRS.,MELINDA,ROMERO,05-05-1961,M,F,melinda4@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12261,MRS.,KAITLIN,SANCHEZ,10/26/1960,M,F,kaitlin19@adventure-works.com,"$10,000 ",1,High School,Manual,Y
-12262,MRS.,MORGAN,SANCHEZ,5/22/1960,M,F,morgan47@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12263,MR.,EMMANUEL,GARCIA,3/15/1960,S,M,emmanuel13@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12264,MR.,BRUCE,ASHE,2/21/1960,S,M,bruce27@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12265,MR.,ALAN,GUO,07-03-1959,S,M,alan21@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12266,MRS.,TIFFANY,LIN,3/17/1959,M,F,tiffany7@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12267,MR.,CLIFFORD,GARCIA,05-10-1958,S,M,clifford13@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12268,MR.,EDWIN,SHAN,05-02-1958,M,M,edwin33@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y
-12269,MR.,WARREN,ZHENG,6/13/1960,M,M,warren32@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12270,MRS.,EBONY,RAMOS,09-09-1960,S,F,ebony38@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12271,MR.,TYRONE,HERNANDEZ,9/16/1959,M,M,tyrone3@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12272,MR.,JUSTIN,ALEXANDER,12-10-1959,M,M,justin16@adventure-works.com,"$40,000 ",3,Graduate Degree,Clerical,Y
-12273,MR.,NELSON,CARLSON,10/14/1958,M,M,nelson17@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12274,MR.,JAVIER,TORRES,9/26/1970,S,M,javier6@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12275,MS.,ADRIANA,MADAN,06-11-1970,S,F,adriana8@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12276,,ALISHA,SHAN,7/13/1970,M,NA,alisha34@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12277,MRS.,BETH,ORTEGA,4/22/1969,S,F,beth24@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12278,MRS.,MEREDITH,JOHNSEN,01-06-1969,S,F,meredith28@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12279,MR.,MATHEW,SUAREZ,6/21/1970,M,M,mathew15@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12280,MS.,THERESA,ALVAREZ,06-08-1970,M,F,theresa1@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,N
-12281,MS.,JANELLE,SANCHEZ,4/23/1970,M,F,janelle17@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12282,MR.,NICOLAS,TANG,01-07-1970,S,M,nicolas2@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12283,,TODD,ZENG,08-10-1969,S,NA,todd19@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12284,MS.,CRISTINA,BECK,10-02-1969,M,F,cristina17@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,N
-12285,MRS.,BETHANY,CHANDE,11/28/1969,S,F,bethany18@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12286,MR.,NATHAN,JENKINS,09-06-1969,S,M,nathan2@adventure-works.com,"$40,000 ",0,Graduate Degree,Skilled Manual,Y
-12287,MR.,ANDRE,ARUN,01-01-1952,S,M,andre6@adventure-works.com,"$10,000 ",3,Partial College,Manual,N
-12288,MRS.,SARA,BROOKS,3/24/1968,M,F,sara2@adventure-works.com,"$10,000 ",2,High School,Manual,N
-12289,MR.,JOSEPH,TAYLOR,3/23/1968,S,M,joseph15@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12290,MRS.,KAYLEE,MORRIS,4/25/1968,S,F,kaylee15@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12291,MR.,JOHNATHAN,SURI,4/19/1944,S,M,johnathan1@adventure-works.com,"$90,000 ",5,Partial College,Professional,N
-12292,MR.,NICOLAS,KUMAR,3/24/1944,M,M,nicolas5@adventure-works.com,"$130,000 ",3,Bachelors,Management,Y
-12293,MRS.,TAMMY,GARCIA,5/17/1944,M,F,tammy15@adventure-works.com,"$130,000 ",3,Bachelors,Management,Y
-12294,MR.,SHANE,KOVAR,12-01-1944,M,M,shane7@adventure-works.com,"$130,000 ",3,Bachelors,Management,Y
-12295,MR.,DWAYNE,GOMEZ,3/21/1945,S,M,dwayne1@adventure-works.com,"$60,000 ",3,Partial High School,Skilled Manual,Y
-12296,MR.,FRANCISCO,SARA,2/15/1945,M,M,francisco11@adventure-works.com,"$70,000 ",5,High School,Professional,N
-12297,MRS.,FELICIA,BLANCO,01-08-1945,S,F,felicia15@adventure-works.com,"$80,000 ",5,Partial College,Professional,N
-12298,MRS.,CRYSTAL,ZENG,5/21/1945,S,F,crystal1@adventure-works.com,"$90,000 ",5,Partial College,Professional,N
-12299,MR.,WALTER,SERRANO,06-10-1945,M,M,walter9@adventure-works.com,"$150,000 ",3,Graduate Degree,Management,N
-12300,,ADRIANA,GONZALEZ,7/18/1946,S,NA,adriana19@adventure-works.com,"$80,000 ",5,Partial College,Professional,Y
-12301,MRS.,NICHOLE,NARA,12-05-1946,S,F,nichole16@adventure-works.com,"$100,000 ",2,Bachelors,Management,Y
-12302,MR.,KEVIN,COLEMAN,03-02-1946,M,M,kevin9@adventure-works.com,"$100,000 ",2,Bachelors,Management,N
-12303,MRS.,KRISTI,ALVAREZ,4/16/1946,M,F,kristi1@adventure-works.com,"$130,000 ",4,Partial College,Professional,Y
-12304,MR.,ALEJANDRO,ZHOU,06-05-1946,S,M,alejandro11@adventure-works.com,"$130,000 ",4,Partial College,Professional,N
-12305,MR.,XAVIER,BAILEY,07-06-1954,M,M,xavier83@adventure-works.com,"$80,000 ",4,Partial College,Professional,N
-12306,MR.,LOGAN,PARKER,06-06-1953,M,M,logan27@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12307,MR.,BRAD,SHE,11/13/1954,M,M,brad1@adventure-works.com,"$90,000 ",4,High School,Professional,Y
-12308,MRS.,MARGARET,HE,4/25/1954,M,F,margaret25@adventure-works.com,"$100,000 ",3,High School,Professional,Y
-12309,MR.,OMAR,RAJE,10-05-1954,S,M,omar34@adventure-works.com,"$130,000 ",3,Partial College,Professional,N
-12310,MRS.,STACY,MUNOZ,07-11-1954,S,F,stacy8@adventure-works.com,"$130,000 ",3,High School,Professional,N
-12311,MR.,STANLEY,WEBER,6/19/1954,S,M,stanley4@adventure-works.com,"$130,000 ",4,High School,Professional,N
-12312,MR.,JAKE,ZHAO,11-10-1953,M,M,jake10@adventure-works.com,"$100,000 ",3,Bachelors,Management,Y
-12313,MR.,JAIME,CHANDE,06-05-1953,S,M,jaime37@adventure-works.com,"$100,000 ",3,Bachelors,Management,Y
-12314,MRS.,JILL,SUAREZ,9/20/1953,M,F,jill27@adventure-works.com,"$110,000 ",2,Bachelors,Management,Y
-12315,MRS.,ANN,RODRIGUEZ,9/19/1953,M,F,ann24@adventure-works.com,"$130,000 ",4,Partial College,Professional,Y
-12316,MR.,ALEJANDRO,LUO,11/25/1953,M,M,alejandro32@adventure-works.com,"$130,000 ",5,Partial College,Professional,N
-12317,MR.,CARL,SHE,9/24/1953,M,M,carl0@adventure-works.com,"$150,000 ",2,Bachelors,Management,Y
-12318,MS.,KRISTINA,SCHMIDT,05-03-1953,M,F,kristina10@adventure-works.com,"$170,000 ",0,Bachelors,Management,N
-12319,MRS.,SHANNON,YE,07-11-1952,M,F,shannon10@adventure-works.com,"$90,000 ",4,High School,Professional,Y
-12320,MRS.,CHERYL,ALVAREZ,6/17/1952,S,F,cheryl6@adventure-works.com,"$120,000 ",4,Partial College,Professional,Y
-12321,MRS.,ROSA,HU,2/15/1951,M,F,rosa20@adventure-works.com,"$70,000 ",5,Partial High School,Skilled Manual,Y
-12322,MRS.,KARI,MEHTA,08-02-1951,M,F,kari14@adventure-works.com,"$80,000 ",4,High School,Professional,Y
-12323,MR.,LAWRENCE,ALONSO,1/15/1951,M,M,lawrence6@adventure-works.com,"$80,000 ",4,High School,Professional,Y
-12324,MR.,DALE,LAL,2/27/1951,S,M,dale7@adventure-works.com,"$90,000 ",4,High School,Professional,Y
-12325,MRS.,GLORIA,MARTIN,3/18/1951,M,F,gloria3@adventure-works.com,"$130,000 ",4,High School,Professional,Y
-12326,MR.,GLENN,ZHOU,02-03-1951,S,M,glenn9@adventure-works.com,"$170,000 ",0,Partial College,Management,N
-12327,MR.,EDWIN,LIANG,1/18/1950,S,M,edwin17@adventure-works.com,"$100,000 ",3,Partial College,Management,Y
-12328,MR.,EUGENE,ZHAO,3/18/1950,S,M,eugene14@adventure-works.com,"$130,000 ",4,High School,Management,N
-12329,MS.,BONNIE,SHAN,10/23/1950,S,F,bonnie16@adventure-works.com,"$170,000 ",0,Partial College,Management,N
-12330,MR.,PRESTON,RAMAN,6/21/1949,M,M,preston11@adventure-works.com,"$100,000 ",3,Partial College,Management,Y
-12331,MRS.,MEAGAN,CHANDRA,7/17/1948,S,F,meagan2@adventure-works.com,"$70,000 ",5,Partial High School,Skilled Manual,Y
-12332,MR.,ANDRES,NARA,08-10-1948,M,M,andres14@adventure-works.com,"$90,000 ",4,High School,Management,Y
-12333,MR.,TERRANCE,RODRIGUEZ,11/18/1948,M,M,terrance17@adventure-works.com,"$90,000 ",4,High School,Management,N
-12334,MR.,ROY,JIMENEZ,8/20/1948,M,M,roy26@adventure-works.com,"$130,000 ",5,High School,Management,Y
-12335,MR.,FRANCISCO,ASHE,2/23/1948,S,M,francisco7@adventure-works.com,"$150,000 ",3,High School,Management,N
-12336,MR.,WYATT,PRICE,07-09-1947,S,M,wyatt52@adventure-works.com,"$130,000 ",5,Graduate Degree,Professional,N
-12337,MR.,DUSTIN,GOLDSTEIN,10-09-1975,S,M,dustin20@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12338,MS.,MONICA,VANCE,07-08-1976,S,F,monica4@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12339,MR.,CLAYTON,JAI,07-08-1976,S,M,clayton29@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12340,MS.,STACY,DIAZ,11-05-1976,S,F,stacy4@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12341,MS.,KATIE,KUMAR,09-09-1976,M,F,katie10@adventure-works.com,"$80,000 ",0,Bachelors,Professional,Y
-12342,MS.,MORGAN,YOUNG,03-09-1975,M,F,morgan22@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12343,MS.,GLORIA,RUIZ,06-04-1974,M,F,gloria4@adventure-works.com,"$60,000 ",0,Bachelors,Professional,Y
-12344,MS.,DOMINIQUE,PEREZ,06-02-1975,S,F,dominique18@adventure-works.com,"$80,000 ",0,Bachelors,Professional,N
-12345,MS.,ALISON,RAJE,6/27/1975,S,F,alison14@adventure-works.com,"$80,000 ",0,Bachelors,Professional,Y
-12346,MR.,WESLEY,GAO,5/22/1975,S,M,wesley15@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12347,MS.,SUMMER,MADAN,2/21/1975,M,F,summer6@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12348,MR.,JIMMY,VAZQUEZ,2/24/1974,M,M,jimmy18@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12349,MS.,LACEY,YUAN,7/26/1974,S,F,lacey41@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12350,MR.,LOGAN,HERNANDEZ,2/25/1973,M,M,logan44@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12351,MS.,CARA,ZHANG,10-02-1973,M,F,cara0@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12352,MR.,RAMON,ZHANG,03-05-1973,M,M,ramon0@adventure-works.com,"$100,000 ",0,High School,Management,N
-12353,MR.,JOE,RAMOS,10/20/1973,M,M,joe41@adventure-works.com,"$110,000 ",0,Partial College,Management,N
-12354,MR.,LANCE,ORTEGA,08-07-1973,M,M,lance22@adventure-works.com,"$110,000 ",0,Partial College,Management,N
-12355,MS.,MONIQUE,ORTEGA,3/23/1973,S,F,monique18@adventure-works.com,"$120,000 ",0,Partial High School,Professional,Y
-12356,MS.,JULIA,WOOD,8/22/1971,S,F,julia68@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12357,MS.,SUSAN,LU,04-07-1971,S,F,susan21@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12358,MS.,LACEY,RAJE,2/26/1970,M,F,lacey4@adventure-works.com,"$100,000 ",0,Partial High School,Professional,Y
-12359,MRS.,VERONICA,RAMAN,2/19/1970,M,F,veronica13@adventure-works.com,"$130,000 ",5,Graduate Degree,Professional,Y
-12361,MRS.,DANA,DIAZ,04-01-1971,M,F,dana19@adventure-works.com,"$160,000 ",4,Partial High School,Management,N
-12362,MR.,THOMAS,HARRISON,07-06-1941,S,M,thomas25@adventure-works.com,"$90,000 ",5,Bachelors,Management,Y
-12363,MRS.,KAYLA,THOMPSON,12/25/1941,M,F,kayla16@adventure-works.com,"$110,000 ",2,Graduate Degree,Management,N
-12364,MRS.,ERIN,ROGERS,10/28/1941,M,F,erin23@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12365,MR.,ALEX,EVANS,02-12-1942,M,M,alex27@adventure-works.com,"$80,000 ",5,Bachelors,Management,N
-12366,MRS.,STEPHANIE,COX,07-10-1942,M,F,stephanie16@adventure-works.com,"$80,000 ",5,Bachelors,Management,Y
-12367,MS.,TRINITY,TOWNSEND,8/22/1973,S,F,trinity4@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12368,MR.,RODNEY,RUBIO,6/22/1973,S,M,rodney15@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12369,MR.,TERRENCE,LAL,10-06-1963,S,M,terrence8@adventure-works.com,"$60,000 ",4,Bachelors,Professional,N
-12370,MR.,PRESTON,PEREZ,6/27/1963,M,M,preston19@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-12371,MRS.,STEFANIE,SUBRAM,2/14/1963,S,F,stefanie10@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-12372,,DARREN,PRASAD,9/18/1963,S,NA,darren12@adventure-works.com,"$60,000 ",3,Bachelors,Professional,N
-12373,MR.,ISAAC,GRAY,08-06-1974,S,M,isaac5@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12374,MS.,MARIE,KAPOOR,3/28/1980,S,F,marie5@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12375,MR.,JARROD,RAMAN,2/24/1980,S,M,jarrod12@adventure-works.com,"$20,000 ",0,Partial High School,Manual,Y
-12376,MS.,HOLLY,PEREZ,04-01-1980,S,F,holly19@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12377,MR.,CHRISTOPHER,MILLER,3/14/1980,S,M,christopher6@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12378,MS.,BRIANNA,SANCHEZ,8/20/1979,S,F,brianna25@adventure-works.com,"$30,000 ",0,Partial College,Clerical,Y
-12379,MS.,BRIDGET,CHANDE,8/19/1978,S,F,bridget17@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12380,MR.,OMAR,YUAN,03-07-1974,S,M,omar26@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12381,MR.,JOHNNY,LAL,2/17/1974,M,M,johnny9@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12382,MS.,TAMARA,CHEN,11-11-1972,S,F,tamara33@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12383,MR.,ALBERT,GOMEZ,4/20/1973,S,M,albert4@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12384,MRS.,JACQUELYN,GUTIERREZ,10-01-1973,M,F,jacquelyn11@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12385,MRS.,TARA,RAJI,3/27/1973,M,F,tara22@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12386,MS.,KATHERINE,PERRY,04-08-1972,S,F,katherine33@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12387,MS.,MEREDITH,VAZQUEZ,12/27/1972,S,F,meredith38@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12388,MS.,CASEY,KUMAR,7/19/1972,S,F,casey8@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12389,MR.,ALBERT,JIMÉNEZ,07-06-1972,S,M,albert8@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12390,MRS.,DENISE,MARTINEZ,9/17/1972,S,F,denise18@adventure-works.com,"$40,000 ",1,Partial College,Clerical,N
-12391,MRS.,OLIVIA,KELLY,2/24/1972,S,F,olivia46@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12392,MS.,NICHOLE,NATH,7/26/1971,S,F,nichole18@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12393,MS.,BRENDA,SAI,7/16/1971,S,F,brenda9@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12394,MS.,ERIKA,SERRANO,3/13/1971,S,F,erika14@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12395,MR.,KYLE,CARTER,4/25/1971,S,M,kyle39@adventure-works.com,"$30,000 ",0,High School,Manual,Y
-12396,MS.,SUSAN,YANG,4/14/1971,S,F,susan14@adventure-works.com,"$30,000 ",0,High School,Manual,Y
-12397,MR.,SHAUN,CHAPMAN,3/14/1970,S,M,shaun17@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12398,MRS.,ASHLEY,CLARK,07-12-1971,S,F,ashley20@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12399,MR.,HENRY,CHAPMAN,09-12-1971,S,M,henry4@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12400,MR.,ANDY,MARTIN,11-12-1971,S,M,andy5@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12401,MRS.,KIMBERLY,RIVERA,05-09-1971,S,F,kimberly19@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12403,MR.,HENRY,YOUNG,6/18/1971,S,M,henry24@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12404,MRS.,KRYSTAL,LIANG,08-10-1971,S,F,krystal17@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12405,MR.,COLE,SANCHEZ,9/19/1970,S,M,cole18@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12406,MR.,ROSS,GUTIERREZ,1/22/1970,S,M,ross29@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,N
-12407,MR.,SHAWN,RAJI,8/27/1970,S,M,shawn23@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,Y
-12408,MR.,JON,LU,02-05-1970,S,M,jon31@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,N
-12409,MRS.,SAVANNAH,HILL,3/23/1975,S,F,savannah35@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12410,MRS.,MARIAH,RICHARDSON,12-06-1975,S,F,mariah34@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12411,MR.,KEVIN,ALEXANDER,10-02-1975,S,M,kevin21@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12412,MRS.,MACKENZIE,WRIGHT,10/20/1930,M,F,mackenzie41@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-12413,MR.,JAMES,GONZALES,03-07-1966,S,M,james32@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,N
-12414,MR.,ETHAN,LAL,6/21/1966,S,M,ethan25@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,N
-12415,MS.,BRIANNA,RICHARDSON,11-02-1966,S,F,brianna36@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,N
-12416,MS.,VERONICA,MARTINEZ,8/14/1966,S,F,veronica19@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,Y
-12417,MS.,ALEXIS,BRYANT,11/25/1966,S,F,alexis41@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,Y
-12418,MR.,ROBERT,HERNANDEZ,10/24/1953,S,M,robert60@adventure-works.com,"$20,000 ",2,High School,Manual,N
-12420,MR.,SPENCER,HAYES,8/20/1953,M,M,spencer25@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12421,MR.,CAMERON,HUGHES,03-12-1953,M,M,cameron6@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12422,MRS.,HAILEY,EVANS,10/23/1953,M,F,hailey43@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12423,MRS.,SARAH,THOMPSON,4/25/1954,S,F,sarah17@adventure-works.com,"$20,000 ",3,Partial High School,Clerical,N
-12424,MRS.,REBECCA,MITCHELL,9/24/1954,M,F,rebecca13@adventure-works.com,"$30,000 ",1,High School,Manual,Y
-12425,MR.,BRANDON,WHITE,03-05-1954,M,M,brandon33@adventure-works.com,"$30,000 ",1,High School,Clerical,Y
-12426,MR.,CODY,COX,9/23/1954,M,M,cody11@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12427,MRS.,KIMBERLY,STEWART,02-08-1954,M,F,kimberly24@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12428,MR.,SEAN,MORRIS,02-07-1955,M,M,sean26@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12429,MR.,MELVIN,BLACK,11/27/1955,M,M,melvin19@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12431,MR.,WYATT,THOMAS,3/21/1955,M,M,wyatt11@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12432,MR.,NATHAN,CLARK,7/25/1955,M,M,nathan53@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12433,MR.,ANTONIO,PRICE,7/20/1955,M,M,antonio0@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12434,MR.,THOMAS,KUMAR,03-09-1955,M,M,thomas31@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12435,MRS.,CHRISTY,ZHOU,10-10-1955,M,F,christy8@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12436,MR.,ALBERT,DIAZ,6/18/1955,M,M,albert5@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12437,MR.,JEREMY,YOUNG,6/15/1955,M,M,jeremy8@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12438,MRS.,BAILEY,ROGERS,10/19/1955,S,F,bailey17@adventure-works.com,"$80,000 ",5,Graduate Degree,Skilled Manual,Y
-12439,MRS.,MEGAN,BENNETT,5/26/1956,M,F,megan51@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12440,MR.,FRANCISCO,CHANDRA,10-12-1956,M,M,francisco3@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12441,MR.,TREVOR,SIMMONS,11/21/1957,M,M,trevor15@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12442,MRS.,ALLISON,RICHARDSON,08-04-1957,M,F,allison8@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12443,MR.,GARRETT,JAMES,5/22/1957,M,M,garrett3@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12444,MRS.,MACKENZIE,PHILLIPS,4/22/1957,M,F,mackenzie28@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12445,MR.,CAMERON,TAYLOR,3/27/1957,M,M,cameron49@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12446,,JASMINE,HALL,08-03-1957,M,NA,jasmine21@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12447,MR.,CARSON,HAYES,10/24/1957,M,M,carson22@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12448,MRS.,HAILEY,COX,5/20/1958,S,F,hailey11@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12449,MR.,DYLAN,BROWN,03-09-1958,S,M,dylan39@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12450,MR.,CODY,COOK,9/23/1958,M,M,cody21@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12451,MRS.,ANNA,SIMMONS,08-10-1958,S,F,anna40@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12452,MR.,SEAN,SANCHEZ,11/24/1958,M,M,sean25@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12453,MRS.,MADISON,BENNETT,05-10-1958,S,F,madison36@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12454,MR.,SAMUEL,GRIFFIN,03-02-1959,M,M,samuel20@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12455,MR.,BENJAMIN,LEWIS,04-10-1959,M,M,benjamin58@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12456,MR.,THOMAS,CHEN,8/16/1959,M,M,thomas28@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12457,MRS.,MISTY,RAI,09-02-1959,S,F,misty19@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12458,MRS.,VERONICA,SANCHEZ,5/27/1968,M,F,veronica22@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12459,MRS.,STEFANIE,RODRIGUEZ,9/13/1968,S,F,stefanie17@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,N
-12460,MRS.,DOMINIQUE,MALHOTRA,11/23/1968,S,F,dominique4@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,N
-12461,MS.,RUTH,SURI,2/28/1968,M,F,ruth6@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12462,MR.,LEVI,SURI,06-11-1968,M,M,levi0@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12463,MR.,TODD,HUANG,11/23/1968,M,M,todd7@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12464,MR.,JARED,COOK,10/15/1967,S,M,jared23@adventure-works.com,"$10,000 ",3,High School,Manual,Y
-12465,MRS.,CASSANDRA,PATEL,2/23/1967,M,F,cassandra3@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12466,MR.,WILLIE,HE,4/26/1967,M,M,willie17@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12467,MRS.,JENNIFER,JONES,04-07-1967,S,F,jennifer31@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12468,MR.,WAYNE,NATH,10/25/1967,M,M,wayne21@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12469,MR.,SHANE,SRINI,8/21/1966,M,M,shane12@adventure-works.com,"$20,000 ",1,High School,Manual,Y
-12470,MRS.,BARBARA,HE,02-06-1966,M,F,barbara27@adventure-works.com,"$20,000 ",1,High School,Manual,Y
-12471,MS.,LACEY,ZENG,5/14/1967,M,F,lacey35@adventure-works.com,"$40,000 ",0,Bachelors,Clerical,Y
-12472,MR.,JEFFERY,ZHANG,09-09-1966,M,M,jeffery0@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12473,MR.,SERGIO,SAI,11/15/1966,M,M,sergio6@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12474,MRS.,TAMMY,CHANDRA,12/22/1966,M,F,tammy2@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12475,MR.,LOGAN,CARTER,3/25/1965,S,M,logan36@adventure-works.com,"$10,000 ",4,Partial High School,Manual,Y
-12476,MR.,RODNEY,JIMENEZ,02-06-1965,S,M,rodney1@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12477,MRS.,ROBIN,GILL,12/23/1965,M,F,robin10@adventure-works.com,"$20,000 ",2,High School,Manual,N
-12478,MR.,RUBEN,MEHTA,2/17/1965,S,M,ruben15@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12479,MRS.,PRISCILLA,TANG,05-12-1965,M,F,priscilla3@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12480,MRS.,MEREDITH,ALVAREZ,4/16/1964,S,F,meredith27@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12481,MR.,VICTOR,DIAZ,09-07-1964,S,M,victor4@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12482,MR.,JEROME,BROWNING,03-06-1964,S,M,jerome14@adventure-works.com,"$10,000 ",3,Partial High School,Manual,Y
-12483,MRS.,AMANDA,PEREZ,04-04-1964,S,F,amanda55@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12484,MRS.,LORI,SUAREZ,04-03-1964,S,F,lori19@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12485,MRS.,VERONICA,SUBRAM,3/25/1964,S,F,veronica14@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12486,MRS.,KRISTEN,YE,02-10-1964,S,F,kristen8@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12487,MR.,WILLIE,ZHU,04-06-1964,S,M,willie12@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12488,MR.,JAY,GARCIA,05-12-1963,S,M,jay21@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12489,MR.,WAYNE,RAI,10/25/1966,M,M,wayne20@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-12490,MS.,TRISHA,HE,7/28/1966,M,F,trisha13@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12491,MR.,ALVIN,HUANG,02-06-1966,M,M,alvin7@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-12492,MS.,BRITTANY,PRICE,09-04-1966,S,F,brittany0@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,N
-12493,MR.,DWAYNE,VAZQUEZ,6/23/1965,M,M,dwayne14@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-12495,MR.,LUCAS,MILLER,3/15/1964,S,M,lucas19@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12496,MRS.,MELANIE,COX,1/23/1964,M,F,melanie36@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12497,MRS.,ASHLEE,KUMAR,9/22/1963,M,F,ashlee14@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12498,MR.,EDUARDO,DIAZ,4/20/1963,M,M,eduardo65@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12499,MS.,HEATHER,WANG,08-04-1978,S,F,heather1@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12500,MRS.,KATHLEEN,VAZQUEZ,2/13/1979,S,F,kathleen16@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12501,MR.,CORY,SAI,9/13/1979,S,M,cory4@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12502,MR.,DARREN,SANCHEZ,11/18/1979,S,M,darren21@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12503,MRS.,CASEY,SHEN,8/20/1979,S,F,casey2@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12504,MR.,ARTHUR,GUTIERREZ,2/20/1963,M,M,arthur35@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12505,MR.,DALTON,MARTIN,02-03-1963,M,M,dalton13@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12506,MR.,PRESTON,SANCHEZ,07-02-1963,M,M,preston18@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12507,MR.,IAN,BELL,9/26/1962,M,M,ian81@adventure-works.com,"$30,000 ",1,Partial College,Clerical,Y
-12508,MRS.,NICHOLE,ANAND,08-01-1962,M,F,nichole22@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12509,MR.,MARC,FERRIER,2/19/1962,M,M,marc12@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12510,MR.,ROBERTO,SANZ,11/20/1962,M,M,roberto18@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12511,MR.,GRANT,CHANDER,3/17/1978,S,M,grant17@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12512,MRS.,CAROLYN,GOMEZ,5/22/1978,M,F,carolyn23@adventure-works.com,"$30,000 ",3,Partial College,Clerical,N
-12513,MR.,AUSTIN,THOMPSON,3/20/1978,S,M,austin31@adventure-works.com,"$30,000 ",4,Partial College,Clerical,Y
-12514,MS.,LACEY,BECKER,12-09-1977,S,F,lacey9@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12515,MS.,SHELBY,BAILEY,06-03-1977,S,F,shelby16@adventure-works.com,"$30,000 ",0,Partial College,Clerical,Y
-12516,MS.,SHAWNA,CHANDER,5/27/1977,S,F,shawna16@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12517,,ALEXA,WATSON,8/25/1977,S,NA,alexa0@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12518,MS.,JACQUELYN,DOMINGUEZ,9/27/1977,S,F,jacquelyn13@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12519,MR.,CASEY,GUTIERREZ,12/17/1977,S,M,casey34@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12520,MR.,SETH,JACKSON,11/25/1976,S,M,seth12@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12521,MS.,MEREDITH,DOMINGUEZ,01-12-1975,S,F,meredith36@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12522,MS.,BRANDY,SANCHEZ,09-07-1976,S,F,brandy16@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12523,MR.,STEVE,WAGNER,12-03-1976,S,M,steve5@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12524,MS.,KATE,SHAN,1/24/1975,S,F,kate8@adventure-works.com,"$30,000 ",0,Partial College,Clerical,Y
-12525,MRS.,CHELSEA,RODRIGUEZ,4/28/1975,M,F,chelsea21@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12526,MRS.,MICHELE,SUAREZ,5/19/1975,M,F,michele53@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12527,MR.,JOSÉ,RODRIGUEZ,11/24/1959,M,M,josé81@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12528,MR.,DEVIN,WILSON,03-02-1959,S,M,devin5@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12529,MR.,ISAIAH,ALLEN,10-11-1959,M,M,isaiah41@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12530,MRS.,ISABEL,COLEMAN,5/26/1972,S,F,isabel6@adventure-works.com,"$40,000 ",4,Partial College,Clerical,Y
-12532,MR.,JOSE,CARTER,03-09-1973,M,M,jose46@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,Y
-12533,MR.,LUIS,WASHINGTON,11-07-1940,M,M,luis12@adventure-works.com,"$170,000 ",1,Graduate Degree,Management,Y
-12534,MRS.,KATIE,SHAN,6/15/1962,M,F,katie13@adventure-works.com,"$10,000 ",1,Graduate Degree,Manual,Y
-12535,MR.,CLIFFORD,KAPOOR,2/18/1962,S,M,clifford1@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12536,MR.,JAVIER,DOMINGUEZ,6/17/1961,M,M,javier7@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12537,MR.,TERRENCE,LUO,3/18/1961,M,M,terrence6@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12538,MRS.,PAULA,BLANCO,8/21/1961,M,F,paula18@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12539,MR.,MARC,DOMINGUEZ,5/26/1935,S,M,marc16@adventure-works.com,"$20,000 ",1,Graduate Degree,Clerical,Y
-12540,MR.,LEVI,SARA,09-06-1936,M,M,levi9@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y
-12541,MR.,JONATHAN,ZHANG,10-04-1962,M,M,jonathan23@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12542,MR.,PRESTON,PATEL,6/27/1962,M,M,preston3@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12543,MR.,RUBEN,ALVAREZ,1/20/1958,M,M,ruben28@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12544,MR.,BRUCE,JORDAN,3/27/1958,M,M,bruce1@adventure-works.com,"$10,000 ",1,Bachelors,Manual,Y
-12545,MR.,MARC,RUIZ,03-04-1957,M,M,marc5@adventure-works.com,"$10,000 ",1,Partial College,Manual,Y
-12546,MR.,CLARENCE,ANDERSEN,11/16/1956,S,M,clarence28@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12547,MR.,BRADLEY,NARA,10/28/1956,M,M,bradley19@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12548,MRS.,ALEXANDRA,COLLINS,02-07-1955,S,F,alexandra46@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12549,MRS.,DONNA,XIE,02-07-1955,S,F,donna3@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12550,MR.,AUSTIN,DIAZ,10-03-1954,M,M,austin18@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12551,MR.,JULIO,RAMOS,12-03-1937,M,M,julio18@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12552,MR.,BRUCE,TORRES,09-12-1938,M,M,bruce33@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12553,MRS.,TONI,FERNANDEZ,9/23/1938,M,F,toni16@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12554,MR.,BARRY,RODRIGUEZ,03-02-1938,M,M,barry19@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y
-12555,MR.,EDGAR,MALHOTRA,02-02-1939,M,M,edgar5@adventure-works.com,"$10,000 ",2,Bachelors,Clerical,Y
-12556,MR.,MANUEL,KAPOOR,08-12-1939,M,M,manuel1@adventure-works.com,"$10,000 ",2,Bachelors,Clerical,Y
-12557,MR.,PHILLIP,LOPEZ,6/24/1940,M,M,phillip18@adventure-works.com,"$10,000 ",2,Bachelors,Clerical,Y
-12558,MRS.,AMANDA,EVANS,09-07-1940,M,F,amanda44@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12559,MR.,EMMANUEL,LOPEZ,11-01-1940,M,M,emmanuel15@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12560,MRS.,MANDY,GAO,01-01-1940,M,F,mandy16@adventure-works.com,"$20,000 ",1,Bachelors,Clerical,Y
-12561,MRS.,TRISHA,LIN,7/19/1941,S,F,trisha2@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12562,MRS.,KRISTINA,CHANDRA,12-11-1941,M,F,kristina2@adventure-works.com,"$10,000 ",2,Partial College,Manual,Y
-12563,MR.,ALEJANDRO,LIN,04-11-1941,M,M,alejandro10@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12564,MR.,MARSHALL,YANG,03-09-1941,M,M,marshall4@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12565,MRS.,KENDRA,GUTIERREZ,07-03-1942,M,F,kendra11@adventure-works.com,"$10,000 ",3,Partial College,Manual,Y
-12566,MR.,OMAR,YANG,05-03-1942,M,M,omar5@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12567,MRS.,CARMEN,ARTHUR,2/18/1942,M,F,carmen9@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12568,MRS.,STACEY,YE,6/16/1942,M,F,stacey10@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12569,MRS.,KRISTIN,RAI,3/19/1942,M,F,kristin16@adventure-works.com,"$40,000 ",1,Graduate Degree,Clerical,Y
-12570,MR.,CASEY,MUNOZ,5/16/1980,S,M,casey31@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12571,MS.,JENNIFER,GREEN,5/19/1980,M,F,jennifer17@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12572,MS.,ALISHA,CHANDER,5/27/1980,S,F,alisha40@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12573,MR.,GRANT,RAI,2/23/1980,S,M,grant19@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12574,MR.,DEREK,RAJE,02-11-1980,S,M,derek12@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12575,MS.,JACLYN,SHEN,09-12-1979,S,F,jaclyn25@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12576,MR.,WALTER,DOMINGUEZ,3/14/1979,S,M,walter6@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12577,MR.,FRANCIS,SANZ,8/20/1979,S,M,francis18@adventure-works.com,"$10,000 ",0,Partial College,Manual,Y
-12578,MR.,GAVIN,PERRY,2/28/1980,S,M,gavin7@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12579,MS.,LYDIA,SANCHEZ,09-10-1978,S,F,lydia18@adventure-works.com,"$10,000 ",0,Partial College,Manual,Y
-12580,MR.,CEDRIC,SHE,09-08-1978,S,M,cedric23@adventure-works.com,"$10,000 ",0,Partial College,Manual,Y
-12581,MS.,KRISTINA,FERNANDEZ,03-11-1978,S,F,kristina16@adventure-works.com,"$10,000 ",0,Partial College,Manual,N
-12582,MS.,CARMEN,SARA,3/25/1977,S,F,carmen13@adventure-works.com,"$10,000 ",0,High School,Manual,N
-12583,MR.,TYRONE,ORTEGA,08-07-1976,S,M,tyrone21@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12584,MRS.,BRITTNEY,MA,07-04-1976,S,F,brittney14@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12585,MR.,IAN,MARTINEZ,6/24/1979,M,M,ian15@adventure-works.com,"$10,000 ",1,High School,Manual,Y
-12586,MRS.,KELLIE,HERNANDEZ,4/24/1979,S,F,kellie4@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12587,MR.,DANNY,TRAVERS,8/20/1978,S,M,danny13@adventure-works.com,"$20,000 ",0,Bachelors,Clerical,Y
-12588,MRS.,TRACY,CHANDE,7/25/1977,S,F,tracy14@adventure-works.com,"$10,000 ",1,High School,Manual,N
-12589,MR.,RUBEN,RODRIGUEZ,5/17/1977,M,M,ruben20@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12590,MR.,MARIO,CHANDER,5/27/1943,S,M,mario14@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12592,MRS.,AMY,LI,7/20/1961,M,F,amy11@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12593,MR.,BENJAMIN,ZHANG,05-03-1961,S,M,benjamin25@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12594,MRS.,SANDRA,GAO,2/16/1961,M,F,sandra22@adventure-works.com,"$30,000 ",4,Graduate Degree,Clerical,Y
-12595,MR.,MATHEW,BLANCO,6/19/1961,S,M,mathew11@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12596,MR.,ARMANDO,ROMERO,1/14/1961,M,M,armando9@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12597,MR.,FRANKLIN,ZHANG,06-02-1960,M,M,franklin0@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12598,MRS.,ALEXANDRA,BRYANT,02-02-1960,M,F,alexandra39@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12599,MRS.,JILLIAN,FERNANDEZ,12-11-1959,M,F,jillian16@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12600,MR.,LARRY,ROMERO,04-03-1958,M,M,larry11@adventure-works.com,"$30,000 ",1,Graduate Degree,Clerical,Y
-12601,MR.,RANDY,ZHANG,8/13/1960,M,M,randy2@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12602,MR.,FRANCISCO,SRINI,10/26/1960,M,M,francisco9@adventure-works.com,"$30,000 ",3,Graduate Degree,Clerical,Y
-12603,MR.,COLE,REED,2/19/1960,S,M,cole21@adventure-works.com,"$30,000 ",3,Bachelors,Clerical,Y
-12604,MR.,NATHAN,LEE,3/18/1960,M,M,nathan58@adventure-works.com,"$30,000 ",3,Bachelors,Clerical,Y
-12605,MRS.,CAROL,COOPER,08-06-1960,M,F,carol26@adventure-works.com,"$30,000 ",3,Bachelors,Clerical,Y
-12606,MR.,ARTHUR,VAN,4/20/1960,M,M,arthur6@adventure-works.com,"$40,000 ",3,Graduate Degree,Clerical,Y
-12607,MRS.,TAMARA,ZHU,9/22/1960,M,F,tamara3@adventure-works.com,"$40,000 ",3,Graduate Degree,Clerical,Y
-12608,MR.,BRETT,SANCHEZ,11-09-1959,M,M,brett20@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12609,MS.,LINDA,CARLSON,9/20/1959,M,F,linda33@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12610,MRS.,WENDY,GUTIERREZ,09-06-1958,M,F,wendy10@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12611,MR.,MANUEL,SARA,04-11-1970,S,M,manuel9@adventure-works.com,"$20,000 ",0,Partial College,Manual,Y
-12612,MR.,SHANNON,TORRES,06-06-1969,S,M,shannon33@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12613,MR.,JOEL,PRASAD,09-03-1970,M,M,joel8@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12614,MR.,LANCE,GILL,6/14/1970,S,M,lance13@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12615,MR.,NATHAN,HILL,2/20/1969,S,M,nathan42@adventure-works.com,"$10,000 ",2,High School,Manual,Y
-12616,MS.,KELSEY,TANG,10-12-1969,S,F,kelsey3@adventure-works.com,"$20,000 ",0,Partial College,Manual,N
-12617,MR.,JAKE,MA,10-05-1969,M,M,jake14@adventure-works.com,"$20,000 ",0,Partial College,Manual,N
-12618,MS.,DAWN,LAL,6/23/1969,M,F,dawn32@adventure-works.com,"$30,000 ",0,Bachelors,Clerical,Y
-12619,MS.,PRISCILLA,RAI,08-07-1969,M,F,priscilla16@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12620,MR.,MAURICE,LAL,4/17/1969,M,M,maurice9@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12621,MR.,BARRY,MARTINEZ,12-12-1969,M,M,barry18@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12622,MR.,MICHEAL,RUBIO,04-10-1969,M,M,micheal17@adventure-works.com,"$40,000 ",0,Graduate Degree,Skilled Manual,Y
-12623,MR.,JESSE,SANCHEZ,7/18/1952,M,M,jesse18@adventure-works.com,"$10,000 ",3,Partial College,Manual,N
-12624,MRS.,JAMIE,XU,10-02-1952,M,F,jamie15@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12625,MRS.,CARLY,ANDERSEN,6/26/1952,M,F,carly12@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12626,MRS.,CASSIE,LAL,05-03-1951,M,F,cassie7@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12627,MRS.,LEAH,ZHENG,01-04-1968,S,F,leah15@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12628,MR.,ARTURO,MA,11-04-1968,M,M,arturo17@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12629,MR.,RUSSELL,NARA,12/26/1968,S,M,russell19@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12630,MR.,KEVIN,SIMMONS,9/22/1954,M,M,kevin18@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12631,MR.,CLARENCE,GAO,5/17/1944,S,M,clarence8@adventure-works.com,"$70,000 ",5,High School,Professional,Y
-12632,MRS.,BONNIE,NATH,8/18/1944,M,F,bonnie24@adventure-works.com,"$80,000 ",5,Bachelors,Management,Y
-12633,MR.,SHANNON,SUAREZ,02-09-1945,M,M,shannon39@adventure-works.com,"$110,000 ",3,Bachelors,Management,Y
-12634,MR.,DERRICK,RUIZ,9/13/1945,M,M,derrick2@adventure-works.com,"$120,000 ",4,Bachelors,Management,Y
-12635,MR.,BRAD,BECK,9/25/1946,S,M,brad21@adventure-works.com,"$80,000 ",5,Partial College,Professional,N
-12636,MRS.,TAMER,SALAH,08-03-1946,M,F,tamer0@adventure-works.com,"$100,000 ",2,Bachelors,Management,Y
-12637,MR.,LEONARD,NATH,03-02-1946,M,M,leonard20@adventure-works.com,"$130,000 ",4,Partial College,Professional,Y
-12638,MR.,SEBASTIAN,BROOKS,01-03-1954,M,M,sebastian2@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12639,MR.,RUBEN,LOPEZ,07-12-1953,S,M,ruben18@adventure-works.com,"$80,000 ",4,Partial College,Professional,Y
-12640,MR.,ANGEL,RICHARDSON,11/22/1953,M,M,angel9@adventure-works.com,"$90,000 ",3,Partial College,Professional,Y
-12641,MR.,WILLIE,RAJE,03-05-1954,M,M,willie33@adventure-works.com,"$100,000 ",3,High School,Professional,Y
-12642,MR.,JIMMY,CARLSON,4/13/1954,M,M,jimmy22@adventure-works.com,"$100,000 ",3,High School,Professional,Y
-12643,MRS.,KRISTINA,PEREZ,7/24/1953,M,F,kristina20@adventure-works.com,"$120,000 ",3,Bachelors,Management,Y
-12644,MRS.,RACHEL,REED,06-03-1953,M,F,rachel31@adventure-works.com,"$130,000 ",4,Partial College,Professional,Y
-12645,MS.,AUDREY,RUIZ,05-07-1953,M,F,audrey3@adventure-works.com,"$170,000 ",0,Bachelors,Management,Y
-12646,MR.,KENNETH,XU,07-11-1952,S,M,kenneth5@adventure-works.com,"$90,000 ",4,High School,Professional,Y
-12647,MRS.,COLLEEN,ANAND,9/26/1952,M,F,colleen45@adventure-works.com,"$170,000 ",4,Partial College,Professional,Y
-12648,MRS.,LORI,DOMINGUEZ,03-10-1952,M,F,lori14@adventure-works.com,"$170,000 ",4,Partial College,Professional,Y
-12649,MR.,OMAR,GOEL,12-10-1951,M,M,omar40@adventure-works.com,"$80,000 ",4,High School,Professional,Y
-12650,MR.,AARON,WRIGHT,03-06-1950,M,M,aaron52@adventure-works.com,"$90,000 ",4,High School,Management,Y
-12651,MR.,MARTIN,MALHOTRA,6/16/1950,S,M,martin10@adventure-works.com,"$90,000 ",4,High School,Management,Y
-12652,MRS.,CAROLYN,MARTIN,08-09-1950,M,F,carolyn22@adventure-works.com,"$130,000 ",4,High School,Management,Y
-12653,MRS.,NICHOLE,ANDERSEN,1/25/1950,M,F,nichole13@adventure-works.com,"$150,000 ",4,Bachelors,Management,Y
-12654,MRS.,BRIANA,GILL,11/27/1950,M,F,briana13@adventure-works.com,"$160,000 ",2,Partial College,Management,N
-12655,MR.,LARRY,VAZQUEZ,2/20/1949,M,M,larry17@adventure-works.com,"$80,000 ",5,High School,Management,Y
-12656,MR.,BLAKE,ROBERTS,09-05-1949,M,M,blake40@adventure-works.com,"$90,000 ",4,High School,Management,Y
-12657,MRS.,AUDREY,BLANCO,06-06-1949,M,F,audrey17@adventure-works.com,"$110,000 ",4,High School,Management,Y
-12658,MS.,JOY,GOMEZ,01-11-1949,M,F,joy2@adventure-works.com,"$170,000 ",0,High School,Management,Y
-12659,MR.,DAMIEN,CHANDE,3/17/1948,M,M,damien31@adventure-works.com,"$80,000 ",5,High School,Management,Y
-12660,MRS.,TONI,SANCHEZ,10/19/1947,M,F,toni21@adventure-works.com,"$80,000 ",5,Partial High School,Skilled Manual,Y
-12661,MRS.,DEBORAH,PAL,8/22/1947,M,F,deborah16@adventure-works.com,"$80,000 ",5,Partial High School,Skilled Manual,Y
-12662,MR.,JESSIE,HUANG,5/25/1947,M,M,jessie11@adventure-works.com,"$90,000 ",5,Partial High School,Skilled Manual,N
-12663,MRS.,MORGAN,ADAMS,6/24/1947,M,F,morgan12@adventure-works.com,"$90,000 ",5,Partial High School,Skilled Manual,Y
-12664,MRS.,KRISTA,GILL,01-03-1947,M,F,krista13@adventure-works.com,"$130,000 ",5,Partial College,Professional,Y
-12665,MS.,JOY,SUAREZ,10-05-1975,M,F,joy18@adventure-works.com,"$60,000 ",0,Bachelors,Professional,Y
-12666,MR.,JESSIE,ZHU,8/20/1975,S,M,jessie18@adventure-works.com,"$60,000 ",0,Bachelors,Professional,N
-12667,MS.,MARIA,WOOD,11/22/1976,M,F,maria25@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12668,MS.,MELISSA,PATTERSON,4/26/1976,S,F,melissa5@adventure-works.com,"$70,000 ",0,Bachelors,Professional,Y
-12669,MR.,IRVING,SCHMIDT,03-04-1976,S,M,irving0@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12670,MS.,SARAH,MARTINEZ,7/21/1975,S,F,sarah19@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12671,MR.,ALAN,HUANG,02-11-1974,S,M,alan10@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-12672,MR.,CARSON,BUTLER,11-07-1975,S,M,carson13@adventure-works.com,"$80,000 ",0,Bachelors,Professional,N
-12673,MR.,COLIN,STONE,8/28/1975,M,M,colin25@adventure-works.com,"$80,000 ",0,Bachelors,Professional,Y
-12674,MR.,JIMMY,TRAVERS,7/27/1975,M,M,jimmy15@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12675,MS.,HOLLY,FERNANDEZ,10-05-1973,S,F,holly15@adventure-works.com,"$80,000 ",0,Bachelors,Professional,N
-12676,MS.,MICHELE,MADAN,6/28/1974,S,F,michele63@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12677,MR.,CEDRIC,LIU,11-05-1974,M,M,cedric4@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12678,MRS.,DANA,SERRANO,10-10-1974,S,F,dana9@adventure-works.com,"$130,000 ",4,High School,Management,Y
-12679,MS.,STACY,GILL,11-10-1973,M,F,stacy14@adventure-works.com,"$100,000 ",0,High School,Management,N
-12680,MR.,GEORGE,SANCHEZ,07-02-1972,S,M,george27@adventure-works.com,"$80,000 ",0,Bachelors,Professional,N
-12681,MS.,CHRISTY,CHOW,03-08-1972,S,F,christy2@adventure-works.com,"$80,000 ",0,Bachelors,Professional,N
-12682,MS.,KARI,SUBRAM,6/14/1973,M,F,kari13@adventure-works.com,"$100,000 ",0,High School,Management,N
-12683,MRS.,LAURA,ZHOU,02-01-1973,S,F,laura15@adventure-works.com,"$120,000 ",5,Partial High School,Professional,Y
-12684,MR.,SHAUN,SHEN,5/23/1973,M,M,shaun4@adventure-works.com,"$120,000 ",0,Partial High School,Professional,Y
-12685,MS.,JACLYN,XU,3/22/1972,M,F,jaclyn28@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12686,MS.,TRISHA,ZHOU,10/18/1972,S,F,trisha3@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12687,MR.,MARSHALL,LI,4/20/1972,S,M,marshall2@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12688,MS.,STACY,NAVARRO,08-04-1972,S,F,stacy10@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12689,MS.,TAMARA,PAL,10-05-1972,S,F,tamara23@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12690,MR.,ROGER,ZHANG,09-12-1972,M,M,roger5@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12691,MR.,RAFAEL,ANDERSEN,02-09-1972,M,M,rafael37@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12692,MR.,GLENN,LU,7/26/1971,S,M,glenn12@adventure-works.com,"$80,000 ",0,Bachelors,Professional,Y
-12693,MS.,RUTH,GONZALEZ,01-09-1971,M,F,ruth22@adventure-works.com,"$80,000 ",0,Bachelors,Professional,Y
-12694,MR.,JAY,ARTHUR,01-11-1972,S,M,jay13@adventure-works.com,"$120,000 ",0,Partial High School,Professional,Y
-12695,MS.,KARI,RUIZ,02-02-1971,M,F,kari23@adventure-works.com,"$90,000 ",0,Bachelors,Professional,Y
-12696,MS.,STACEY,HU,3/17/1971,M,F,stacey21@adventure-works.com,"$100,000 ",0,High School,Management,Y
-12697,MS.,BRENDA,STONE,6/24/1970,S,F,brenda12@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-12698,MR.,MOHAMED,PAL,5/14/1970,M,M,mohamed2@adventure-works.com,"$110,000 ",0,High School,Management,Y
-12699,MS.,AMY,CHOW,3/18/1970,M,F,amy10@adventure-works.com,"$120,000 ",0,Partial High School,Professional,Y
-12700,MS.,MINDY,KUMAR,3/20/1971,M,F,mindy12@adventure-works.com,"$110,000 ",0,Partial High School,Professional,Y
-12701,MR.,GARY,GUTIERREZ,10/18/1971,M,M,gary22@adventure-works.com,"$110,000 ",0,Partial High School,Professional,Y
-12702,MS.,YOLANDA,SHAN,09-07-1971,M,F,yolanda9@adventure-works.com,"$110,000 ",0,Partial High School,Professional,Y
-12703,MS.,RENEE,SUAREZ,6/20/1971,M,F,renee17@adventure-works.com,"$110,000 ",0,Partial High School,Professional,Y
-12704,MS.,BARBARA,NARA,4/16/1971,M,F,barbara45@adventure-works.com,"$120,000 ",0,Partial High School,Management,Y
-12705,MR.,ANDRE,GARCIA,08-10-1969,M,M,andre15@adventure-works.com,"$150,000 ",0,Bachelors,Management,Y
-12706,MR.,LOUIS,LIANG,1/13/1969,M,M,louis11@adventure-works.com,"$160,000 ",0,Bachelors,Management,Y
-12707,MR.,IAN,LEWIS,9/28/1941,M,M,ian19@adventure-works.com,"$70,000 ",5,Graduate Degree,Management,Y
-12708,MRS.,BONNIE,PAL,4/25/1941,M,F,bonnie18@adventure-works.com,"$90,000 ",5,Bachelors,Management,Y
-12709,MR.,IAN,RODRIGUEZ,1/14/1941,M,M,ian18@adventure-works.com,"$130,000 ",2,Bachelors,Management,Y
-12710,MR.,DALTON,EVANS,6/19/1941,S,M,dalton43@adventure-works.com,"$170,000 ",2,Graduate Degree,Management,N
-12711,MS.,HEATHER,ZHENG,4/20/1973,S,F,heather18@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12712,MR.,ARTHUR,ROMERO,8/17/1973,S,M,arthur33@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12713,MS.,DEBORAH,XIE,06-09-1973,S,F,deborah7@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12714,MS.,COLLEEN,LU,7/17/1973,S,F,colleen11@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12715,MR.,EDDIE,GILL,7/18/1963,M,M,eddie14@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-12716,MR.,DALE,SHEN,3/16/1974,S,M,dale2@adventure-works.com,"$30,000 ",0,Partial College,Clerical,Y
-12717,MS.,HANNAH,WOOD,06-07-1974,M,F,hannah25@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12718,MS.,TAMMY,SAI,11/14/1974,S,F,tammy6@adventure-works.com,"$30,000 ",0,Partial College,Clerical,Y
-12719,MS.,CHERYL,RUIZ,12-04-1974,S,F,cheryl3@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12720,MR.,NICOLAS,CHANDE,11-02-1974,S,M,nicolas13@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12721,MS.,REBEKAH,MARTINEZ,1/14/1974,S,F,rebekah17@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12722,MS.,LATASHA,GOMEZ,02-12-1980,S,F,latasha1@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12723,MR.,KURT,JAI,11/13/1980,M,M,kurt11@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12724,MR.,EDDIE,MARTIN,1/24/1980,S,M,eddie1@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12725,MRS.,GABRIELLE,JAMES,8/13/1910,M,F,gabrielle17@adventure-works.com,"$10,000 ",4,Partial High School,Manual,N
-12726,MR.,KURT,GOEL,2/19/1980,S,M,kurt19@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12727,MS.,AMANDA,ROSS,04-12-1980,S,F,amanda25@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12728,MR.,JEREMIAH,STEWART,6/26/1979,S,M,jeremiah44@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12729,MR.,JOSE,PERRY,5/16/1979,S,M,jose31@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12730,MS.,KARLA,BECKER,10/16/1978,S,F,karla21@adventure-works.com,"$30,000 ",0,High School,Manual,Y
-12731,MR.,STEVEN,MURPHY,9/14/1973,S,M,steven24@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12733,MS.,LACEY,CAI,2/27/1972,S,F,lacey34@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12734,MS.,MARGARET,ZHOU,10-03-1972,S,F,margaret15@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12735,MR.,DONALD,MEHTA,10/19/1972,S,M,donald15@adventure-works.com,"$20,000 ",0,Partial High School,Manual,Y
-12736,MS.,DIANA,RUIZ,7/26/1972,S,F,diana1@adventure-works.com,"$20,000 ",0,Partial High School,Manual,Y
-12737,MR.,BRETT,CHANDRA,1/19/1973,S,M,brett1@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12738,MRS.,MELINDA,RUBIO,6/16/1973,M,F,melinda15@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12739,MR.,EVAN,YOUNG,12-12-1973,M,M,evan43@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12740,MS.,KATHRYN,GOEL,11/27/1972,S,F,kathryn17@adventure-works.com,"$30,000 ",0,High School,Manual,Y
-12741,MR.,RAYMOND,SAM,02-03-1972,S,M,raymond1@adventure-works.com,"$30,000 ",0,High School,Manual,Y
-12742,MRS.,SAMANTHA,MARTINEZ,11/22/1972,S,F,samantha19@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12743,MR.,CARL,KUMAR,12/19/1972,M,M,carl7@adventure-works.com,"$40,000 ",2,Partial College,Clerical,N
-12744,MRS.,ANNA,MOORE,11/27/1972,S,F,anna68@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12745,MR.,RAFAEL,WU,6/13/1972,S,M,rafael7@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12746,MR.,JUAN,TORRES,4/18/1971,S,M,juan2@adventure-works.com,"$10,000 ",0,Partial High School,Manual,N
-12747,MS.,COLLEEN,HU,11-02-1971,S,F,colleen21@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12748,MS.,GRACE,BELL,08-11-1971,S,F,grace30@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12749,MR.,MIGUEL,LEE,03-02-1971,S,M,miguel22@adventure-works.com,"$30,000 ",0,High School,Manual,N
-12750,MRS.,TERESA,VAZQUEZ,08-11-1970,S,F,teresa15@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12751,MRS.,PRISCILLA,XU,12-12-1970,S,F,priscilla4@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12752,MR.,JONATHON,ALVAREZ,11/18/1970,S,M,jonathon1@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12753,MR.,RAMON,ZHAO,5/20/1971,S,M,ramon10@adventure-works.com,"$40,000 ",2,Partial College,Clerical,Y
-12754,MRS.,LINDSEY,DENG,6/20/1970,M,F,lindsey1@adventure-works.com,"$40,000 ",2,Partial College,Clerical,N
-12755,MRS.,CHLOE,HUGHES,10-02-1975,S,F,chloe78@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12756,MR.,ANTONIO,BUTLER,6/26/1975,S,M,antonio14@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12757,MRS.,SARA,RAMIREZ,12/20/1974,S,F,sara7@adventure-works.com,"$40,000 ",3,Partial College,Clerical,Y
-12758,MRS.,STEPHANIE,RAMIREZ,01-11-1930,M,F,stephanie22@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12759,MRS.,JADA,SANDERS,7/14/1931,M,F,jada1@adventure-works.com,"$40,000 ",1,Graduate Degree,Skilled Manual,Y
-12760,MS.,KRISTA,GOMEZ,1/26/1966,S,F,krista1@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,Y
-12761,MS.,ALEXANDRA,RICHARDSON,03-04-1966,S,F,alexandra13@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,Y
-12762,MR.,JONATHAN,SMITH,12/20/1953,M,M,jonathan60@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12763,MRS.,CHLOE,RUSSELL,02-05-1953,M,F,chloe85@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12764,MRS.,ALEXANDRA,HARRIS,8/17/1953,M,F,alexandra77@adventure-works.com,"$30,000 ",1,Partial College,Clerical,Y
-12765,,ROBYN,GILL,5/20/1954,M,NA,robyn11@adventure-works.com,"$20,000 ",2,Partial High School,Manual,N
-12766,MRS.,JORDYN,BRYANT,8/15/1954,M,F,jordyn17@adventure-works.com,"$20,000 ",3,Partial High School,Clerical,N
-12767,MR.,CHRISTOPHER,ROBINSON,11-03-1954,M,M,christopher18@adventure-works.com,"$30,000 ",1,High School,Clerical,Y
-12768,MR.,JOHNATHAN,CHAPMAN,5/26/1954,M,M,johnathan3@adventure-works.com,"$30,000 ",1,High School,Clerical,Y
-12769,MR.,THOMAS,ZHANG,3/21/1955,M,M,thomas26@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12770,MR.,CHARLES,EVANS,9/23/1955,M,M,charles44@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12771,MRS.,MORGAN,THOMAS,10/22/1955,M,F,morgan33@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12772,MRS.,ABIGAIL,CLARK,4/25/1955,M,F,abigail60@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12773,MRS.,SAMANTHA,TAYLOR,11-09-1955,M,F,samantha10@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12774,MRS.,KRISTEN,GAO,3/25/1955,M,F,kristen13@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12775,MR.,CONNOR,GRIFFIN,09-08-1955,M,M,connor15@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12776,MR.,BLAKE,CAMPBELL,1/18/1955,M,M,blake43@adventure-works.com,"$80,000 ",5,Graduate Degree,Skilled Manual,N
-12777,MR.,JOSEPH,ANDERSON,5/22/1956,M,M,joseph16@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12778,MRS.,CONNIE,MORGAN,04-08-1956,M,F,connie3@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12779,MR.,MASON,ROGERS,08-03-1956,M,M,mason18@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12780,MR.,JEREMY,RICHARDSON,3/22/1956,M,M,jeremy39@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12781,MRS.,EMMA,JAMES,6/28/1956,M,F,emma44@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12782,MRS.,ELIZABETH,LONG,3/19/1956,M,F,elizabeth39@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12783,MR.,JEROME,GUTIERREZ,04-08-1956,M,M,jerome9@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12784,MR.,JONATHAN,CAMPBELL,03-07-1956,M,M,jonathan36@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12785,MR.,JAVIER,ORTEGA,3/22/1956,M,M,javier15@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12786,MR.,JAMES,YANG,03-03-1956,M,M,james43@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12787,MRS.,KATELYN,COOK,10/21/1956,S,F,katelyn20@adventure-works.com,"$70,000 ",5,Graduate Degree,Skilled Manual,Y
-12788,MRS.,AMANDA,NELSON,6/28/1957,M,F,amanda52@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12789,MRS.,JAMIE,ZENG,4/24/1957,M,F,jamie26@adventure-works.com,"$40,000 ",1,Partial College,Clerical,Y
-12790,,BRANDON,KUMAR,10-05-1958,S,NA,brandon25@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12791,MRS.,ANGELICA,FOSTER,9/27/1958,S,F,angelica15@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12792,MR.,BLAKE,WHITE,3/21/1958,M,M,blake12@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12793,MR.,JESSIE,GUO,4/17/1958,M,M,jessie22@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12794,MRS.,MEGAN,JACKSON,10-08-1959,S,F,megan15@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12795,MR.,ANTONIO,FOSTER,04-12-1959,M,M,antonio16@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12796,MR.,JASON,ZHANG,03-08-1959,M,M,jason21@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,N
-12797,MR.,PATRICK,HOWARD,8/23/1959,S,M,patrick16@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12798,MR.,ANDY,GUTIERREZ,1/14/1968,M,M,andy15@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12799,MR.,GEORGE,CHANDRA,6/15/1968,M,M,george8@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12800,MRS.,LACEY,CHEN,3/21/1968,M,F,lacey14@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12801,MRS.,MELODY,BROWNING,01-05-1968,S,F,melody16@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12803,MRS.,HEATHER,LI,3/18/1968,M,F,heather3@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12804,MRS.,JACLYN,CHANDER,06-04-1968,S,F,jaclyn39@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,N
-12805,MR.,MARVIN,MORENO,6/13/1968,M,M,marvin7@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12806,MR.,RONNIE,ZENG,3/18/1968,M,M,ronnie19@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12807,MS.,NINA,KUMAR,08-04-1968,S,F,nina8@adventure-works.com,"$40,000 ",0,Graduate Degree,Clerical,Y
-12808,MR.,MARC,SCHMIDT,05-11-1968,M,M,marc24@adventure-works.com,"$40,000 ",0,Bachelors,Clerical,Y
-12809,MRS.,MICHELE,NAVARRO,9/22/1967,M,F,michele43@adventure-works.com,"$20,000 ",1,Partial College,Manual,Y
-12810,MR.,CHASE,STEWART,7/28/1926,M,M,chase23@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12811,MR.,MARC,SERRANO,4/20/1967,S,M,marc20@adventure-works.com,"$20,000 ",1,Partial College,Manual,N
-12812,MRS.,BRANDI,SANZ,8/21/1967,M,F,brandi19@adventure-works.com,"$20,000 ",1,High School,Manual,Y
-12813,MR.,REGINALD,RAMOS,11-08-1967,M,M,reginald3@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12814,MRS.,CASEY,SHARMA,04-10-1967,S,F,casey10@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,N
-12815,MRS.,DOMINIQUE,MEHTA,6/26/1967,M,F,dominique11@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,Y
-12816,MRS.,TAMMY,MEHTA,6/24/1966,S,F,tammy14@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12817,MR.,THEODORE,SUAREZ,02-09-1966,S,M,theodore20@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12818,MR.,CURTIS,SHE,2/18/1966,M,M,curtis20@adventure-works.com,"$20,000 ",1,High School,Manual,Y
-12819,MR.,NICOLAS,CHANDER,4/23/1966,S,M,nicolas14@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12820,MR.,DEREK,TANG,02-09-1966,S,M,derek4@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12821,MR.,CESAR,MCDONALD,6/15/1967,M,M,cesar3@adventure-works.com,"$40,000 ",0,Bachelors,Clerical,Y
-12822,MS.,ALEXANDRA,JAMES,5/24/1967,M,F,alexandra19@adventure-works.com,"$40,000 ",0,Bachelors,Clerical,N
-12823,MRS.,BETHANY,SHE,11/17/1927,M,F,bethany4@adventure-works.com,"$10,000 ",4,High School,Manual,N
-12824,MR.,KRISTOPHER,SUBRAM,05-06-1966,S,M,kristopher11@adventure-works.com,"$30,000 ",1,Bachelors,Clerical,N
-12825,MR.,KELVIN,HU,1/20/1966,M,M,kelvin39@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12826,MR.,CALEB,GONZALEZ,07-07-1965,S,M,caleb38@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12827,MR.,NICOLAS,RAJE,7/15/1965,S,M,nicolas12@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12828,MRS.,CAROL,RUBIO,06-04-1964,S,F,carol12@adventure-works.com,"$10,000 ",5,Partial High School,Manual,Y
-12829,MR.,MICAH,LI,7/14/1964,S,M,micah13@adventure-works.com,"$20,000 ",2,High School,Manual,Y
-12830,MR.,RUSSELL,RAJE,12/24/1964,S,M,russell16@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12831,MRS.,KATHRYN,LAL,1/16/1964,S,F,kathryn7@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12832,MR.,DOUGLAS,PRASAD,4/21/1964,S,M,douglas13@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12833,MRS.,SHEENA,GOEL,1/17/1964,S,F,sheena18@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12834,MRS.,KELSEY,XIE,3/13/1964,M,F,kelsey2@adventure-works.com,"$30,000 ",1,Bachelors,Skilled Manual,Y
-12835,MR.,KARL,YUAN,9/22/1963,S,M,karl7@adventure-works.com,"$10,000 ",3,Partial High School,Manual,Y
-12836,MR.,RODNEY,MUNOZ,03-03-1963,S,M,rodney3@adventure-works.com,"$20,000 ",3,High School,Manual,Y
-12837,MRS.,NICOLE,ANDERSON,9/27/1933,M,F,nicole10@adventure-works.com,"$20,000 ",2,Partial College,Manual,Y
-12838,MR.,RALPH,BECK,05-11-1966,M,M,ralph0@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-12839,MS.,DOMINIQUE,FERNANDEZ,6/18/1966,S,F,dominique13@adventure-works.com,"$60,000 ",0,Graduate Degree,Skilled Manual,N
-12840,MRS.,NAOMI,SANZ,08-12-1934,M,F,naomi20@adventure-works.com,"$40,000 ",1,Graduate Degree,Skilled Manual,Y
-12841,MRS.,YOLANDA,XIE,8/24/1965,S,F,yolanda3@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12842,MR.,KELVIN,BECKER,03-06-1965,S,M,kelvin17@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12843,MRS.,SUMMER,SMITH,08-02-1965,S,F,summer7@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12844,MR.,GERALD,GONZALEZ,3/28/1965,M,M,gerald4@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12845,MRS.,ANGELA,TORRES,11/28/1965,M,F,angela30@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12846,MRS.,BRIDGET,NARA,07-06-1964,S,F,bridget18@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12848,MRS.,BRITTNEY,LU,11-02-1964,M,F,brittney10@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12849,MR.,ADAM,BAKER,2/26/1963,S,M,adam38@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-12850,MR.,JOHNNY,RAJI,06-06-1977,S,M,johnny22@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12851,MRS.,BRANDY,SAI,9/26/1979,S,F,brandy1@adventure-works.com,"$20,000 ",4,High School,Manual,Y
-12852,MRS.,TERESA,CARLSON,02-04-1979,S,F,teresa19@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12853,MRS.,EVELYN,MALHOTRA,8/25/1963,M,F,evelyn5@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12854,MR.,REGINALD,ROMERO,5/23/1963,M,M,reginald16@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12855,MR.,PHILIP,DIAZ,02-03-1963,M,M,philip2@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12856,MRS.,ROSA,LIN,04-07-1963,M,F,rosa8@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12857,MR.,RAUL,KUMAR,8/17/1963,M,M,raul7@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12858,MRS.,ADRIANA,MEHTA,4/21/1962,S,F,adriana15@adventure-works.com,"$30,000 ",1,Partial College,Clerical,Y
-12859,MRS.,EVELYN,GONZALEZ,8/17/1962,S,F,evelyn19@adventure-works.com,"$30,000 ",1,Partial College,Clerical,Y
-12860,MRS.,JILLIAN,PRASAD,3/25/1962,M,F,jillian10@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12861,MRS.,ROBYN,JIMENEZ,3/25/1962,M,F,robyn4@adventure-works.com,"$40,000 ",1,Bachelors,Skilled Manual,Y
-12862,MRS.,MELINDA,ORTEGA,02-11-1978,S,F,melinda16@adventure-works.com,"$30,000 ",3,Partial College,Clerical,Y
-12863,MR.,CALEB,ZHANG,8/25/1978,S,M,caleb20@adventure-works.com,"$30,000 ",4,Partial College,Clerical,Y
-12865,MS.,BRANDY,MARTINEZ,3/24/1976,M,F,brandy14@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12866,MS.,JANELLE,FERNANDEZ,6/18/1975,S,F,janelle12@adventure-works.com,"$10,000 ",0,Partial High School,Manual,Y
-12867,MS.,LAURA,YE,7/20/1975,S,F,laura16@adventure-works.com,"$10,000 ",0,Partial High School,Manual,Y
-12868,MS.,JULIE,ANAND,5/13/1975,S,F,julie23@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12869,MS.,ALISHA,TANG,3/25/1976,M,F,alisha28@adventure-works.com,"$20,000 ",0,High School,Manual,N
-12870,MR.,TYRONE,MUNOZ,9/19/1976,S,M,tyrone7@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12871,MS.,LEAH,LI,10-06-1976,S,F,leah2@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12872,MS.,OLIVIA,HUGHES,05-11-1975,S,F,olivia57@adventure-works.com,"$30,000 ",0,Partial College,Clerical,N
-12873,MS.,MANDAR,SAMANT,9/18/1974,S,F,mandar2@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12874,MS.,KIRK,NASON,09-05-1974,S,F,kirk3@adventure-works.com,"$20,000 ",0,Partial High School,Manual,N
-12875,MRS.,BRIANNA,ROSS,5/15/1959,S,F,brianna50@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12876,MR.,BLAKE,ROBINSON,7/22/1959,M,M,blake18@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12877,MR.,ALEXANDER,WILLIAMS,05-05-1959,M,M,alexander4@adventure-works.com,"$60,000 ",4,Graduate Degree,Skilled Manual,Y
-12878,MR.,GILBERT,SUN,9/14/1972,M,M,gilbert10@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12879,MR.,ELIJAH,NELSON,7/16/1972,M,M,elijah37@adventure-works.com,"$40,000 ",0,Graduate Degree,Skilled Manual,Y
-12880,MR.,LUIS,HAYES,09-11-1973,S,M,luis22@adventure-works.com,"$50,000 ",0,Graduate Degree,Skilled Manual,N
-12881,MRS.,ISABELLA,EDWARDS,11/14/1973,S,F,isabella34@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-12882,MR.,EDUARDO,ALLEN,3/27/1973,M,M,eduardo24@adventure-works.com,"$50,000 ",1,Graduate Degree,Skilled Manual,Y
-12883,MRS.,STEPHANIE,BAILEY,11-06-1971,S,F,stephanie12@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12884,MRS.,MEGAN,WILLIAMS,05-12-1971,S,F,megan5@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12885,MR.,JONATHAN,ANDERSON,8/15/1971,M,M,jonathan62@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12886,MRS.,JOCELYN,LONG,11-03-1971,S,F,jocelyn10@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12889,MR.,JAMES,ADAMS,11/27/1971,M,M,james66@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12890,MR.,STEVEN,THORPE,7/19/1971,M,M,steven8@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12891,MRS.,KAYLEE,KING,4/16/1971,M,F,kaylee42@adventure-works.com,"$60,000 ",1,Graduate Degree,Skilled Manual,Y
-12892,MR.,BRIAN,PETERSON,04-10-1972,M,M,brian17@adventure-works.com,"$40,000 ",1,Graduate Degree,Skilled Manual,Y
-12893,MRS.,BRITTANY,FOSTER,04-04-1972,M,F,brittany14@adventure-works.com,"$70,000 ",2,Graduate Degree,Professional,Y
-12894,MRS.,NATALIE,WALKER,08-07-1972,M,F,natalie89@adventure-works.com,"$70,000 ",2,Graduate Degree,Professional,Y
-12895,MRS.,DESTINY,ANDERSON,04-06-1970,M,F,destiny10@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-12896,MRS.,VICTORIA,WOOD,7/16/1970,M,F,victoria50@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-12897,MRS.,ALYSSA,WILSON,01-06-1970,M,F,alyssa6@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-12898,MRS.,MADELINE,CAMPBELL,09-09-1970,M,F,madeline6@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-12899,MRS.,ANA,ROSS,07-11-1970,M,F,ana4@adventure-works.com,"$50,000 ",1,Bachelors,Skilled Manual,Y
-12900,MR.,CARLOS,WARD,06-05-1970,M,M,carlos14@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12901,MR.,ROBERT,ADAMS,02-12-1969,M,M,robert57@adventure-works.com,"$50,000 ",2,Bachelors,Skilled Manual,Y
-12902,MRS.,JULIA,STEWART,4/22/1969,S,F,julia46@adventure-works.com,"$50,000 ",2,Bachelors,Skilled Manual,Y
-12903,MRS.,JOHN,SANDSTONE,10-02-1969,S,F,john27@adventure-works.com,"$50,000 ",2,Bachelors,Skilled Manual,Y
-12904,MR.,THOMAS,JAI,2/19/1969,M,M,thomas35@adventure-works.com,"$50,000 ",2,Bachelors,Skilled Manual,Y
-12905,MRS.,ALEXANDRA,SANCHEZ,09-10-1969,M,F,alexandra2@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12906,MR.,PHILIP,RAMOS,8/19/1971,M,M,philip16@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12907,MRS.,JULIA,BRYANT,11/23/1971,M,F,julia84@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12908,MR.,TYLER,CLARK,03-12-1971,M,M,tyler19@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12909,MRS.,KELSEY,SHAN,5/25/1971,M,F,kelsey10@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12910,MR.,ROBERT,BROWN,02-05-1971,M,M,robert62@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12911,MR.,SEBASTIAN,ROGERS,10/26/1969,S,M,sebastian18@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12912,MRS.,BRIANNA,MORRIS,3/25/1968,S,F,brianna26@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12913,MR.,BENJAMIN,MOORE,2/23/1968,M,M,benjamin42@adventure-works.com,"$60,000 ",2,Bachelors,Skilled Manual,Y
-12914,MS.,JILL,MILLER,04-11-1967,S,F,jill4@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12915,MS.,KAITLYN,ALEXANDER,3/20/1967,S,F,kaitlyn86@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12916,MRS.,NATALIE,ROSS,5/23/1970,M,F,natalie26@adventure-works.com,"$60,000 ",1,Graduate Degree,Professional,Y
-12917,MRS.,VANESSA,RUSSELL,03-02-1970,M,F,vanessa20@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-12918,MRS.,BROOKE,MURPHY,2/13/1970,M,F,brooke13@adventure-works.com,"$80,000 ",2,Graduate Degree,Professional,Y
-12920,MRS.,KELLY,HENDERSON,9/13/1967,S,F,kelly9@adventure-works.com,"$70,000 ",2,Bachelors,Skilled Manual,Y
-12921,MR.,WYATT,LEE,07-03-1966,S,M,wyatt23@adventure-works.com,"$60,000 ",3,Bachelors,Skilled Manual,N
-12923,MR.,FERNANDO,WRIGHT,8/21/1966,S,M,fernando26@adventure-works.com,"$60,000 ",3,Bachelors,Skilled Manual,Y
-12924,MR.,DEVON,CHANDE,10-09-1966,M,M,devon12@adventure-works.com,"$60,000 ",3,Bachelors,Skilled Manual,Y
-12925,MS.,MACKENZIE,BLUE,8/13/1966,M,F,mackenzie12@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-12926,MRS.,SARA,MURPHY,7/18/1966,M,F,sara16@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-12927,MRS.,SAVANNAH,SANCHEZ,6/13/1966,M,F,savannah25@adventure-works.com,"$70,000 ",4,Graduate Degree,Professional,Y
-12928,MRS.,CAROL,WRIGHT,11-10-1969,M,F,carol15@adventure-works.com,"$60,000 ",2,Graduate Degree,Professional,Y
-12929,MRS.,VANESSA,BRYANT,03-05-1969,M,F,vanessa19@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-12930,MRS.,GRACE,HARRIS,5/16/1969,M,F,grace13@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-12931,MRS.,ANN,FERNANDEZ,10-05-1969,S,F,ann20@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-12932,MR.,TYLER,JOHNSON,11-10-1969,M,M,tyler4@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-12933,MR.,JONATHAN,HALL,02-10-1969,M,M,jonathan52@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,N
-12934,MR.,JASON,FOSTER,11-12-1969,S,M,jason13@adventure-works.com,"$80,000 ",3,Graduate Degree,Professional,Y
-12935,MR.,ROBERT,HILL,05-04-1969,M,M,robert54@adventure-works.com,"$80,000 ",3,Graduate Degree,Professional,Y
-12936,,RENEE,MORENO,3/27/1965,S,NA,renee6@adventure-works.com,"$40,000 ",0,Bachelors,Professional,Y
-12937,MS.,MEGAN,WILSON,01-04-1965,S,F,megan10@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12938,MR.,EDWARD,PARKER,02-08-1965,S,M,edward19@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12939,MR.,EDUARDO,PARKER,04-02-1965,S,M,eduardo41@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-12940,MR.,STEVEN,ROGERS,3/24/1965,M,M,steven29@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-12941,MRS.,MARIA,MORGAN,05-10-1965,S,F,maria6@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-12942,MRS.,MORGAN,HARRIS,11/15/1965,S,F,morgan35@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-12943,MR.,CALEB,PEREZ,2/17/1965,S,M,caleb32@adventure-works.com,"$80,000 ",3,Bachelors,Skilled Manual,Y
-12944,MR.,JOSE,JAI,7/21/1965,M,M,jose26@adventure-works.com,"$80,000 ",4,Bachelors,Skilled Manual,Y
-12945,MS.,JESSICA,BAILEY,3/24/1965,M,F,jessica9@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-12946,MR.,SETH,ALLEN,12-04-1965,M,M,seth24@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-12947,MR.,ISAIAH,SANCHEZ,2/17/1964,S,M,isaiah17@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12948,MR.,ADAM,KUMAR,10-02-1964,M,M,adam24@adventure-works.com,"$50,000 ",5,Bachelors,Skilled Manual,Y
-12949,MRS.,MORGAN,RIVERA,12/19/1964,S,F,morgan55@adventure-works.com,"$50,000 ",5,Bachelors,Skilled Manual,Y
-12950,MRS.,MARY,ADAMS,10/15/1964,S,F,mary29@adventure-works.com,"$50,000 ",5,Bachelors,Skilled Manual,Y
-12951,MR.,BLAKE,SIMMONS,12-06-1963,S,M,blake63@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12952,MS.,JENNIFER,HUGHES,12/15/1968,S,F,jennifer85@adventure-works.com,"$60,000 ",0,Bachelors,Professional,N
-12953,MRS.,CATHERINE,COOPER,11-12-1963,S,F,catherine15@adventure-works.com,"$60,000 ",3,Graduate Degree,Professional,Y
-12954,MR.,PEDRO,DIAZ,8/22/1962,M,M,pedro23@adventure-works.com,"$70,000 ",1,Bachelors,Professional,N
-12955,MRS.,THERESA,HERNANDEZ,09-10-1962,S,F,theresa0@adventure-works.com,"$70,000 ",1,Bachelors,Professional,Y
-12956,MR.,MARSHALL,SUN,03-11-1962,S,M,marshall12@adventure-works.com,"$70,000 ",1,Bachelors,Professional,Y
-12957,MRS.,ISABELLA,LOPEZ,8/26/1962,S,F,isabella52@adventure-works.com,"$70,000 ",1,Bachelors,Professional,N
-12958,MRS.,JENNIFER,CAMPBELL,7/27/1962,S,F,jennifer9@adventure-works.com,"$70,000 ",1,Bachelors,Professional,N
-12959,MRS.,SYDNEY,CARTER,5/24/1962,S,F,sydney51@adventure-works.com,"$70,000 ",1,Bachelors,Professional,Y
-12960,MRS.,ASHLEY,LEWIS,11-12-1962,S,F,ashley22@adventure-works.com,"$70,000 ",1,Bachelors,Professional,N
-12961,MRS.,KIMBERLY,MURPHY,5/15/1962,M,F,kimberly17@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-12962,MRS.,JENNIFER,EDWARDS,4/22/1962,M,F,jennifer5@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-12963,MR.,MARCUS,ANDERSON,10/25/1962,M,M,marcus10@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-12964,MR.,XAVIER,RUSSELL,5/14/1962,M,M,xavier60@adventure-works.com,"$70,000 ",1,Partial College,Skilled Manual,Y
-12965,MR.,CODY,BELL,9/19/1961,M,M,cody14@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12966,MR.,DENNIS,ZHU,03-09-1961,M,M,dennis15@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12967,MR.,FERNANDO,RODRIGUEZ,04-10-1961,M,M,fernando18@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12968,MRS.,PAIGE,BUTLER,12/19/1961,M,F,paige13@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-12969,MR.,RICHARD,RODRIGUEZ,06-02-1960,M,M,richard14@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,N
-12970,MRS.,ANGELA,POWELL,7/17/1960,S,F,angela11@adventure-works.com,"$40,000 ",4,High School,Skilled Manual,Y
-12971,MR.,CARL,NARA,03-02-1960,M,M,carl16@adventure-works.com,"$40,000 ",0,Bachelors,Professional,N
-12972,MS.,CAROLYN,SURI,6/22/1967,S,F,carolyn1@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,N
-12973,MR.,ADRIAN,HOWARD,03-12-1967,S,M,adrian13@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-12974,MR.,MARC,GILL,2/28/1967,S,M,marc17@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,Y
-12975,MR.,MARCUS,WILSON,4/18/1967,S,M,marcus7@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-12976,MR.,HUNTER,THOMPSON,6/21/1967,S,M,hunter47@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-12977,MS.,DESTINY,JOHNSON,2/23/1967,S,F,destiny1@adventure-works.com,"$60,000 ",0,Graduate Degree,Professional,N
-12978,MRS.,DANIELLE,JAMES,11/15/1928,M,F,danielle10@adventure-works.com,"$20,000 ",3,High School,Skilled Manual,N
-12979,MRS.,CHRISTINA,WARD,8/19/1960,M,F,christina10@adventure-works.com,"$60,000 ",1,Partial College,Skilled Manual,Y
-12980,MR.,MAX,MOYER,8/14/1959,M,M,max10@adventure-works.com,"$80,000 ",2,Graduate Degree,Professional,Y
-12981,MR.,JOE,SANZ,4/16/1959,S,M,joe43@adventure-works.com,"$80,000 ",3,Graduate Degree,Professional,Y
-12982,MRS.,BRITTANY,PATTERSON,5/20/1958,M,F,brittany9@adventure-works.com,"$80,000 ",1,Partial College,Skilled Manual,Y
-12983,MRS.,GABRIELLA,CARTER,12/21/1958,M,F,gabriella33@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-12984,MR.,ADAM,YOUNG,02-06-1958,M,M,adam48@adventure-works.com,"$60,000 ",1,Bachelors,Professional,Y
-12985,MRS.,HAILEY,ROBERTS,05-11-1958,M,F,hailey46@adventure-works.com,"$70,000 ",5,Graduate Degree,Professional,Y
-12986,MRS.,RACHEL,GARCIA,09-07-1958,M,F,rachel19@adventure-works.com,"$80,000 ",5,Graduate Degree,Professional,Y
-12987,MRS.,FELICIA,MORENO,05-12-1969,M,F,felicia5@adventure-works.com,"$90,000 ",1,Graduate Degree,Management,N
-12988,MRS.,BARBARA,GOEL,1/26/1969,S,F,barbara47@adventure-works.com,"$90,000 ",1,Graduate Degree,Management,Y
-12989,MRS.,CARLY,GOEL,11/13/1969,M,F,carly17@adventure-works.com,"$100,000 ",1,Graduate Degree,Management,Y
-12990,MRS.,LESLIE,HERNANDEZ,10/15/1969,S,F,leslie4@adventure-works.com,"$100,000 ",1,Graduate Degree,Management,Y
-12991,MR.,JÉSUS,SERRANO,03-12-1968,M,M,jésus15@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-12992,MR.,ERNEST,ZENG,10/21/1968,M,M,ernest20@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-12993,MR.,XAVIER,HENDERSON,12/26/1968,M,M,xavier46@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-12994,MRS.,ANNA,MARTINEZ,04-09-1970,S,F,anna55@adventure-works.com,"$80,000 ",4,Graduate Degree,Management,Y
-12995,MR.,GRANT,NARA,09-02-1970,M,M,grant18@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-12996,MRS.,JACLYN,LIU,5/13/1970,M,F,jaclyn4@adventure-works.com,"$90,000 ",2,Bachelors,Professional,Y
-12997,MRS.,NINA,XIE,05-11-1968,M,F,nina3@adventure-works.com,"$60,000 ",2,Bachelors,Professional,Y
-12998,MRS.,MAYRA,MEHTA,01-11-1968,S,F,mayra14@adventure-works.com,"$60,000 ",2,Bachelors,Professional,N
-12999,MRS.,NICHOLE,SHEN,6/20/1967,S,F,nichole2@adventure-works.com,"$70,000 ",5,Bachelors,Professional,Y
-13000,MR.,RAFAEL,RAJE,9/20/1969,M,M,rafael38@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,Y
-13001,MR.,CLARENCE,ZHANG,09-06-1969,S,M,clarence37@adventure-works.com,"$130,000 ",1,Graduate Degree,Management,Y
-13002,MR.,ROGER,CAI,8/22/1967,M,M,roger25@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,N
-13003,MRS.,JILL,HERNANDEZ,1/20/1967,M,F,jill11@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,Y
-13004,MR.,RANDY,CHEN,05-04-1967,M,M,randy4@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,N
-13005,MRS.,DESIREE,ALVAREZ,8/15/1966,M,F,desiree0@adventure-works.com,"$80,000 ",5,Graduate Degree,Management,N
-13006,MS.,WHITNEY,RANA,4/21/1966,S,F,whitney10@adventure-works.com,"$90,000 ",0,Bachelors,Professional,N
-13007,MRS.,BROOKE,WARD,10-05-1965,S,F,brooke11@adventure-works.com,"$60,000 ",2,Bachelors,Professional,N
-13008,MR.,ALBERTO,MUÑOZ,07-09-1965,M,M,alberto8@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-13009,MRS.,MINDY,SHE,03-11-1965,M,F,mindy4@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-13010,MRS.,ERICA,YE,8/16/1965,M,F,erica9@adventure-works.com,"$60,000 ",3,Bachelors,Professional,Y
-13011,MS.,ANNE,ORTEGA,05-04-1965,S,F,anne22@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-13012,MS.,KRYSTAL,HU,9/24/1965,S,F,krystal20@adventure-works.com,"$70,000 ",0,Bachelors,Professional,N
-13013,MR.,VINCENT,YE,11-08-1964,M,M,vincent9@adventure-works.com,"$60,000 ",4,Bachelors,Professional,N
-13014,MR.,JAMES,CLARK,7/13/1968,M,M,james92@adventure-works.com,"$100,000 ",2,Bachelors,Management,Y
-13015,MRS.,REBECCA,PARKER,07-11-1968,S,F,rebecca10@adventure-works.com,"$100,000 ",2,Bachelors,Management,N
-13016,MR.,ANTONIO,BRYANT,07-04-1968,M,M,antonio18@adventure-works.com,"$110,000 ",1,Graduate Degree,Management,Y
-13017,MR.,XAVIER,ALEXANDER,2/16/1979,M,M,xavier59@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,Y
-13018,MR.,BRENDAN,XIE,10-11-1944,M,M,brendan3@adventure-works.com,"$10,000 ",5,High School,Skilled Manual,Y
-13019,MS.,DESTINY,MURPHY,03-01-1979,S,F,destiny31@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-13020,MR.,MADALENA,SANCHEZ,05-10-1945,M,M,madalena0@adventure-works.com,"$10,000 ",2,Partial High School,Clerical,Y
-13021,MRS.,KENDRA,DIAZ,07-09-1946,S,F,kendra3@adventure-works.com,"$30,000 ",2,Partial College,Clerical,Y
-13022,MR.,RAFAEL,MA,8/24/1947,M,M,rafael17@adventure-works.com,"$10,000 ",2,Partial High School,Clerical,Y
-13023,MRS.,DOMINIQUE,RAMAN,2/27/1947,S,F,dominique9@adventure-works.com,"$20,000 ",4,High School,Skilled Manual,Y
-13024,MR.,MARC,MORENO,03-09-1947,M,M,marc10@adventure-works.com,"$30,000 ",2,Partial College,Clerical,N
-13025,MR.,REGINALD,SERRANO,11/19/1947,M,M,reginald2@adventure-works.com,"$30,000 ",2,Partial College,Clerical,N
-13026,MRS.,COLLEEN,ZHENG,4/15/1948,S,F,colleen20@adventure-works.com,"$10,000 ",2,Partial High School,Clerical,Y
-13027,MR.,JEREMY,PATTERSON,12-11-1977,S,M,jeremy27@adventure-works.com,"$40,000 ",0,Partial High School,Clerical,Y
-13028,MR.,DALTON,THOMPSON,9/17/1977,S,M,dalton14@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,Y
-13029,MS.,JENNIFER,FOSTER,09-05-1977,S,F,jennifer89@adventure-works.com,"$30,000 ",0,Partial College,Skilled Manual,N
-13030,MS.,SOPHIA,LOPEZ,7/13/1977,S,F,sophia19@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,Y
-13031,MR.,HUNTER,SHAN,2/16/1977,S,M,hunter26@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-13032,MR.,KEVIN,BAKER,04-09-1977,M,M,kevin45@adventure-works.com,"$70,000 ",0,Partial College,Skilled Manual,Y
-13033,MR.,XAVIER,GONZALEZ,11/20/1976,S,M,xavier31@adventure-works.com,"$60,000 ",0,Partial College,Skilled Manual,N
-13034,MRS.,KELSEY,YUAN,2/27/1949,S,F,kelsey6@adventure-works.com,"$20,000 ",2,Partial High School,Clerical,Y
-13035,MRS.,KRISTY,TORRES,11-03-1950,M,F,kristy11@adventure-works.com,"$30,000 ",3,Partial College,Clerical,N
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
 ,,,,,,,,,,,,
